@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Σημείο φυγής	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/2015/simio-figis/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/simio-figis/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:56:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

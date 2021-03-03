@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Μπουγάδα	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/2016/mpougada/feed/" rel="self" type="application/rss+xml" />
+	<link>/2016/mpougada/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:56:20 +0000</lastBuildDate>
 	<sy:updatePeriod>

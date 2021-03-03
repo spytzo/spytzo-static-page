@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Θάρρος και Αλήθεια	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/2015/tharros-i-alithia/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/tharros-i-alithia/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Από: dtzortzis42		</title>
-		<link>./../index.html#comment-3</link>
+		<link>/2015/tharros-i-alithia/#comment-3</link>
 
 		<dc:creator><![CDATA[dtzortzis42]]></dc:creator>
 		<pubDate>Sun, 22 Feb 2015 00:30:00 +0000</pubDate>
-		<guid isPermaLink="false">./../../../index.html?p=202#comment-3</guid>
+		<guid isPermaLink="false">/?p=202#comment-3</guid>
 
 					<description><![CDATA[Επίσης, για πολύ ωραία θεατρική παράσταση στο σινεμά, δες το Venus in Furs, είναι πολύ καλό! Το βλέπω ξανά αν θες :-) ]]></description>
 			<content:encoded><![CDATA[<p>Επίσης, για πολύ ωραία θεατρική παράσταση στο σινεμά, δες το Venus in Furs, είναι πολύ καλό! Το βλέπω ξανά αν θες 🙂 </p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Από: dtzortzis42		</title>
-		<link>./../index.html#comment-2</link>
+		<link>/2015/tharros-i-alithia/#comment-2</link>
 
 		<dc:creator><![CDATA[dtzortzis42]]></dc:creator>
 		<pubDate>Sat, 21 Feb 2015 09:57:00 +0000</pubDate>
-		<guid isPermaLink="false">./../../../index.html?p=202#comment-2</guid>
+		<guid isPermaLink="false">/?p=202#comment-2</guid>
 
 					<description><![CDATA[&quot;λες και οι φοβιτσιάρηδες κατουρήσαμε στο πηγάδι&quot;
 Πολύ καλό! ]]></description>
