@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Θεωρία Παιγνίων &#8211; Σπύρος Τζώρτζης</title>
+	<atom:link href="/tag/game-theory/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>το blog μου</description>
+	<lastBuildDate>Fri, 26 Jun 2020 20:47:39 +0000</lastBuildDate>
+	<language>el</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<title>Θεωρία Παιγνίων &#8211; Σπύρος Τζώρτζης</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Burn the bridges</title>
+		<link>/2015/burn-the-bridges/</link>
+					<comments>/2015/burn-the-bridges/#respond</comments>
+		
+		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
+		<pubDate>Thu, 12 Feb 2015 14:22:10 +0000</pubDate>
+				<category><![CDATA[Αχαρτογράφητα]]></category>
+		<category><![CDATA[Θεωρία Παιγνίων]]></category>
+		<guid isPermaLink="false">/?p=152</guid>
+
+					<description><![CDATA[<p>Παίρνω το ρίσκο σημαίνει ότι αναλαμβάνω την ευθύνη των αποφάσεών μου. Ασχέτως αν υπάρχει ή όχι backup plan, αυτό που βλέπω μπροστά μου είναι το μοναδικό πιθανό outcome.</p>
+<p>The post <a rel="nofollow" href="/2015/burn-the-bridges/">Burn the bridges</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-preformatted">Γέφυρα Ludendorff, 17 Μαρτίου 1945</pre>
+
+
+
+<p>Πολύς λόγος γίνεται τελευταία για τις δυνατότητες της Ελλάδας να διαπραγματευτεί με αξιώσεις την πολιτική και οικονομική της επιβίωση, διαδικασία που έχει χαρακτηριστεί από πολλούς ως ένα <a href="http://www.biblionet.gr/book/91873/%CE%92%CE%B1%CF%81%CE%BF%CF%85%CF%86%CE%AC%CE%BA%CE%B7%CF%82,_%CE%93%CE%B9%CE%AC%CE%BD%CE%B7%CF%82/%CE%9C%CE%B9%CE%BA%CF%81%CE%BF%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC_%CF%85%CF%80%CE%BF%CE%B4%CE%B5%CE%AF%CE%B3%CE%BC%CE%B1%CF%84%CE%B1_%CE%BC%CE%B5%CF%81%CE%B9%CE%BA%CE%AE%CF%82_%CE%BA%CE%B1%CE%B9_%CE%B3%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE%CF%82_%CE%B9%CF%83%CE%BF%CF%81%CF%81%CE%BF%CF%80%CE%AF%CE%B1%CF%82">παίγνιο</a>. Ένα από τα πιο χρήσιμα κεφάλαια που μπορεί να αντλήσει κανείς από την <strong>θεωρία παιγνίων</strong> είναι αυτό των credible ή non-credible threats, δηλαδή το ερώτημα αν η απειλή της απέναντι πλευράς είναι αληθινή ή πρόκειται περί μπλόφας.</p>
+
+
+
+<p>Για παράδειγμα, έστω ότι επιδιώκω να πάρω μία αύξηση στον μισθό μου. <strong>Προφασίζομαι,</strong> λοιπόν, ότι έχω λάβει μία δελεαστική προσφορά από μία ανταγωνιστική εταιρία και ταυτόχρονα <strong>δηλώνω</strong> στο αφεντικό μου ότι είμαι διατεθειμένος να αγνοήσω αυτή την προσφορά αν πάρω την πολυπόθητη αύξηση. Αν η μπλόφα δουλέψει, συγχαρητήρια, κερνάω φαγητό. Αν, όμως, η απαίτησή μου πέσει στο κενό, έχω βρεθεί αυτομάτως εκτός δουλειάς, μιας και μια εταιρία που βρίσκεται στο κεφάλι μου και μόνο, θα δυσκολευτεί να μου κόψει μισθό, ειδικά τέτοιες εποχές.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Asaf Avidan // Different Pulses - Official Video [HD]" width="580" height="326" src="https://www.youtube.com/embed/gnhJ4Ceor_M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Asaf Avidan &#8211; Different Pulses</figcaption></figure>
+
+
+
+<p>Μία από τις αγαπημένες μου ιστορίες στη&nbsp;θεωρία παιγνίων έχει να κάνει με την <strong>πολιορκία</strong> ενός νησιού από έναν εχθρικό στρατό. Ανάμεσα στο νησί και τον στρατό μεσολαβεί μία παλιά ξύλινη γέφυρα, η οποία&nbsp;ταυτόχρονα αποτελεί και τη μόνη έξοδο διαφυγής των πολιορκημένων προς την ενδοχώρα.</p>
+
+
+
+<p>Όσο διάστημα διαρκεί η επίθεση,&nbsp;οι αμυνόμενοι ελπίζουν ότι ο στρατός θα&nbsp;υποχωρήσει και για αυτό το λόγο αρνούνται να συνθηκολογήσουν. Έτσι, σε μία κίνηση υψηλής στρατηγικής, ο εχθρικός στρατός διασχίζει για τελευταία φορά τη γέφυρα και στη συνέχεια&nbsp;της βάζει <strong>φωτιά</strong>. Ως αποτέλεσμα,&nbsp;το τοπίο ξεκαθαρίζει βίαια και η πρωτοβουλία ανήκει πλέον στην μεριά των αμυνόμενων.</p>
+
+
+
+<span id="more-152"></span>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Όταν αρχίζεις να καταλαβαίνεις&nbsp;ότι κάθε λεπτό μετράει, είναι η στιγμή που αντιλαμβάνεσαι ότι δεν έχεις περιθώρια για ημίμετρα, δεύτερες σκέψεις, μισοτελειωμένες φράσεις. Οι τελείες σου είναι μετρημένες, μία εδώ, μία εκεί, ποτέ <a title="Αποσιωποιητικά" href="http://aposiopoihtika.spytzo.gr/" target="_blank" rel="noopener noreferrer">τρεις μαζί</a>.&nbsp;Παίρνω το ρίσκο, τελικά, σημαίνει ότι αναλαμβάνω την ευθύνη των αποφάσεών μου. Ασχέτως αν υπάρχει ή όχι backup plan, αυτό που βλέπω μπροστά μου είναι το μοναδικό πιθανό outcome.</p>
+
+
+
+<p>Το κάψιμο της γέφυρας είναι αυτό που λέμε&nbsp;<strong>σηματοδότηση</strong> (signaling). Ο τρόπος που χτίζουν&nbsp;οι άνθρωποι τις ζωές τους δημιουργεί έναν τεράστιο θόρυβο που καλύπτει τα ουσιαστικά σήματα και την πραγματική πληροφορία. Για αυτό το λόγο&nbsp;λατρεύω τις σειρές στην τηλεόραση: όλοι μιλούν με όλους, έχουν άπλετο χρόνο να συζητήσουν και να πλακωθούν, ακόμα και τα πισώπλατα μαχαιρώματα είναι τόσο ξεκάθαρα που μόνο βάσει σεναρίου μπορεί ο ήρωας να την πατήσει.</p>
+
+
+
+<p>Οπότε σήμερα λέω να&nbsp;μείνω σπίτι και να&nbsp;δω το The Good Wife (S2).<br>Have fun everybody.</p>
+<p>The post <a rel="nofollow" href="/2015/burn-the-bridges/">Burn the bridges</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2015/burn-the-bridges/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 37/39 objects using disk
+Page Caching using disk: enhanced 
+Lazy Loading (feed)
+Database Caching using memcached
+
+Served from: spytzo.gr @ 2021-03-03 20:13:51 by W3 Total Cache
+-->

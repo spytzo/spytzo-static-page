@@ -1,0 +1,97 @@
+/* 
+ Theme Name:   Twenty Twenty Spytzo
+ Theme URI:    spytzo2020
+ Description:  
+ Author:       Twenty Twenty
+ Author URI:   https://spytzo.gr/
+ Template:     twentytwenty
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+
+ /* == Add your own styles below this line ==
+--------------------------------------------*/
+
+/*
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-Black.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-Bold.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-ExtraLight.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-ExtraBold.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-Light.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-Medium.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-Regular.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-SemiBold.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Commissioner';
+    src: url('/wp-content/themes/S2020/Commissioner-Thin.woff2') format('woff2'),
+        url('/wp-content/themes/S2020/Commissioner-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+*/
