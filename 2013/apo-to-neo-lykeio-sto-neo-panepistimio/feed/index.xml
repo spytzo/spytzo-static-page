@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Από το νέο Λύκειο στο νέο Πανεπιστήμιο: ο χαμένος δημοκρατικός ιδεαλισμός	</title>
-	<atom:link href="/2013/apo-to-neo-lykeio-sto-neo-panepistimio/feed/" rel="self" type="application/rss+xml" />
-	<link>/2013/apo-to-neo-lykeio-sto-neo-panepistimio/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 02 Jan 2021 23:22:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

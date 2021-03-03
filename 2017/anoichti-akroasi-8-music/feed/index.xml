@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Ανοιχτή Ακρόαση #8 (music only)	</title>
-	<atom:link href="/2017/anoichti-akroasi-8-music/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/anoichti-akroasi-8-music/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:32 +0000</lastBuildDate>
 	<sy:updatePeriod>

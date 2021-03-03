@@ -9,8 +9,8 @@
 
 <channel>
 	<title>LinkedIn &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="/tag/linkedin/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:56:05 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>./../../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>LinkedIn &#8211; Σπύρος Τζώρτζης</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</title>
-		<link>/2014/skills-kai-endorsements-sto-linkedin/</link>
-					<comments>/2014/skills-kai-endorsements-sto-linkedin/#respond</comments>
+		<link>./../../../2014/skills-kai-endorsements-sto-linkedin/index.html</link>
+					<comments>./../../../2014/skills-kai-endorsements-sto-linkedin/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sun, 02 Feb 2014 09:31:45 +0000</pubDate>
 				<category><![CDATA[Digital]]></category>
 		<category><![CDATA[LinkedIn]]></category>
-		<guid isPermaLink="false">/?p=54</guid>
+		<guid isPermaLink="false">./../../../index.html?p=54</guid>
 
 					<description><![CDATA[<p>Το σωστό στήσιμο ενός προφίλ στο LinkedIn είναι αρκετά σκοτεινή υπόθεση. Ειδικά σε αγορές όπως η Ελληνική, όπου η διείσδυση του μέσου είναι ακόμα σε χαμηλό επίπεδο, υπάρχουν ασάφειες και τυφλά σημεία που δεν είμαι σίγουρος αν μπορούν να καλυφθούν από τα διάφορα best practices guides που κυκλοφορούν κατά καιρούς&#160;(ακόμα και από αυτό που διαβάζετε [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2014/skills-kai-endorsements-sto-linkedin/">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2014/skills-kai-endorsements-sto-linkedin/index.html">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Το σωστό στήσιμο ενός προφίλ στο LinkedIn είναι αρκετά σκοτεινή υπόθεση. Ειδικά σε αγορές όπως η Ελληνική, όπου η διείσδυση του μέσου είναι ακόμα σε χαμηλό επίπεδο, υπάρχουν ασάφειες και τυφλά σημεία που δεν είμαι σίγουρος αν μπορούν να καλυφθούν από τα διάφορα best practices guides που κυκλοφορούν κατά καιρούς&nbsp;(ακόμα και από αυτό που διαβάζετε τώρα!).<br>Μία από τις πονεμένες ιστορίες της πονεμένης ιστορίας που ονομάζεται LinkedIn είναι και η διαχείριση των endorsements, δηλαδή των δεξιοτήτων και των γνώσεων που άλλοι χρήστες του δικτύου έχουν αναγνωρίσει στο πρόσωπό μας. Τα παράπονά μας μπορούν να συνοψιστούν ως εξής:</p>
@@ -58,7 +58,7 @@
 
 
 
-<div class="wp-block-image wp-image-61"><figure class="aligncenter"><img loading="lazy" width="731" height="726" src="/wp-content/uploads/2014/02/spytzo_linkedin2.png" alt="LinkedIn Endorsement" class="wp-image-61" srcset="/wp-content/uploads/2014/02/spytzo_linkedin2.png 731w, /wp-content/uploads/2014/02/spytzo_linkedin2-300x298.png 300w, /wp-content/uploads/2014/02/spytzo_linkedin2-150x150.png 150w" sizes="(max-width: 731px) 100vw, 731px" /><figcaption>Η αρχική εικόνα των endorsement μου πριν την εκκαθάριση</figcaption></figure></div>
+<div class="wp-block-image wp-image-61"><figure class="aligncenter"><img loading="lazy" width="731" height="726" src="./../../../wp-content/uploads/2014/02/spytzo_linkedin2.png" alt="LinkedIn Endorsement" class="wp-image-61" srcset="./../../../wp-content/uploads/2014/02/spytzo_linkedin2.png 731w, ./../../../wp-content/uploads/2014/02/spytzo_linkedin2-300x298.png 300w, ./../../../wp-content/uploads/2014/02/spytzo_linkedin2-150x150.png 150w" sizes="(max-width: 731px) 100vw, 731px" /><figcaption>Η αρχική εικόνα των endorsement μου πριν την εκκαθάριση</figcaption></figure></div>
 
 
 
@@ -70,11 +70,11 @@
 
 
 
-<p>Μπορείτε εδώ <a href="/linkedin/">να δείτε το προφίλ μου στο LinkedIn</a> μετά και από όλες τις αλλαγές που περιγράψαμε. Επιπρόσθετα, σκέφτομαι να προσθέσω μερικά νέα skills από τη <a title="The 25 Hottest Skills That Got People Hired in 2013" href="http://blog.linkedin.com/2013/12/18/the-25-hottest-skills-that-got-people-hired-in-2013/">hot λίστα του LinkedIn για το 2013</a>. &#8220;Business Intelligence&#8221;; Please. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p>The post <a rel="nofollow" href="/2014/skills-kai-endorsements-sto-linkedin/">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>Μπορείτε εδώ <a href="./../../../linkedin/index.html">να δείτε το προφίλ μου στο LinkedIn</a> μετά και από όλες τις αλλαγές που περιγράψαμε. Επιπρόσθετα, σκέφτομαι να προσθέσω μερικά νέα skills από τη <a title="The 25 Hottest Skills That Got People Hired in 2013" href="http://blog.linkedin.com/2013/12/18/the-25-hottest-skills-that-got-people-hired-in-2013/">hot λίστα του LinkedIn για το 2013</a>. &#8220;Business Intelligence&#8221;; Please. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="./../../../2014/skills-kai-endorsements-sto-linkedin/index.html">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2014/skills-kai-endorsements-sto-linkedin/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2014/skills-kai-endorsements-sto-linkedin/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

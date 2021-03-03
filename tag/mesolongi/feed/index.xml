@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Μεσολόγγι &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="/tag/mesolongi/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:34 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>./../../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Μεσολόγγι &#8211; Σπύρος Τζώρτζης</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Κάθε ελεύθερος άνθρωπος;</title>
-		<link>/2015/kathe-eleftheros-anthropos/</link>
-					<comments>/2015/kathe-eleftheros-anthropos/#respond</comments>
+		<link>./../../../2015/kathe-eleftheros-anthropos/index.html</link>
+					<comments>./../../../2015/kathe-eleftheros-anthropos/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 26 Dec 2015 13:20:26 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
 		<category><![CDATA[Μεσολόγγι]]></category>
-		<guid isPermaLink="false">/?p=487</guid>
+		<guid isPermaLink="false">./../../../index.html?p=487</guid>
 
 					<description><![CDATA[<p>Από σήμερα, πρέπει το παγκόσμιο σύμβολο της ελευθερίας του ανθρώπου να δηλώνει ότι διαφωνεί με την ίση μεταχείριση των πολιτών απέναντι στα ανθρώπινα δικαιώματα. </p>
-<p>The post <a rel="nofollow" href="/2015/kathe-eleftheros-anthropos/">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2015/kathe-eleftheros-anthropos/index.html">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Με μεγάλη λύπη και έκπληξη ενημερωθήκαμε ότι στο τελευταίο Δημοτικό Συμβούλιο του Δήμου Ι.Π. Μεσολογγίου εγκρίθηκε κατά πλειοψηφία ένα ψήφισμα διαμαρτυρίας που κατέθεσε ο χρυσαυγίτης δημ. σύμβουλος Δημήτρης Μακρής κατά του συμφώνου συμβίωσης. Είναι απορίας άξιο το πώς ένα τόσο εχθρικό και ντροπιαστικό κείμενο, με αναφορές σε <strong>&#8220;κίναιδους&#8221;</strong> και στην <strong>&#8220;</strong><strong>Νέα Τάξη Πραγμάτων&#8221;</strong> κατάφερε να εγκριθεί από το Δημοτικό Συμβούλιο και να αποτελέσει την επίσημη έκφραση της πόλης μας για το ζήτημα.<span id="more-487"></span><br />
 Η αρχική μας αντίδραση ήταν κάπως έντονη και θα ήταν δύσκολο να την μεταφέρουμε σε γραπτό λόγο. Για αυτό το λόγο σκεφτήκαμε α) να προσπαθήσουμε να αναλύσουμε το ψήφισμα που κατατέθηκε και β) να καταθέσουμε τις δικές μας προτάσεις σχετικά με το ζήτημα. <i>Ακολουθεί το κείμενο του ψηφίσματος, η μορφοποίηση δική μας.</i><br />
@@ -56,10 +56,10 @@
 Από σήμερα, όμως, ως δημότες Μεσολογγίου πρέπει να δηλώνουμε πως αρνούμαστε ο ένας σύντροφος να παίρνει ιατρικές αποφάσεις για τον άλλον σύντροφο, πως είναι ανεπίτρεπτο να διεκδικούν την κοινά αποκτηθείσα περιουσία σε περίπτωση που ο ένας από τους δύο εκλείψει, πως είναι ανήκουστο να μπορεί η μία σύντροφος να ασφαλίζει την δική της σύντροφό, κ.ο.κ.<br />
 Αλλά κυρίως, πρέπει από σήμερα, <strong>το παγκόσμιο σύμβολο της ελευθερίας</strong> <strong>του ανθρώπου</strong> να δηλώνει επίσημα ότι διαφωνεί με την ίση μεταχείριση των πολιτών απέναντι στα ανθρώπινα δικαιώματα. Αυτό είναι πιο δύσκολο να το εξηγήσεις στα παιδιά σου, από το γεγονός ότι μπορεί δυο άντρες να αγαπιούνται και να θέλουν να φροντίζουν για πάντα ο ένας τον άλλον.<br />
 Πανάθεμά μας, χρονιάρες μέρες.</p>
-<p>The post <a rel="nofollow" href="/2015/kathe-eleftheros-anthropos/">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2015/kathe-eleftheros-anthropos/index.html">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/kathe-eleftheros-anthropos/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2015/kathe-eleftheros-anthropos/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

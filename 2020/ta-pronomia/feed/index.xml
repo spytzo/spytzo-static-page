@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Τα προνόμια	</title>
-	<atom:link href="/2020/ta-pronomia/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/ta-pronomia/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 31 Dec 2020 14:29:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

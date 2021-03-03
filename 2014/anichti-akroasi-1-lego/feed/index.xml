@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Ανοιχτή Ακρόαση #1 &#8211; Lego	</title>
-	<atom:link href="/2014/anichti-akroasi-1-lego/feed/" rel="self" type="application/rss+xml" />
-	<link>/2014/anichti-akroasi-1-lego/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

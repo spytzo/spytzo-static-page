@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας	</title>
-	<atom:link href="/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/feed/" rel="self" type="application/rss+xml" />
-	<link>/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:56:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Από: Mr. Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας - KABOOMzine &#124; ημερολόγια πριν από τη μεγάλη έκρηξη		</title>
-		<link>/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/#comment-8</link>
+		<link>./../index.html#comment-8</link>
 
 		<dc:creator><![CDATA[Mr. Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας - KABOOMzine &#124; ημερολόγια πριν από τη μεγάλη έκρηξη]]></dc:creator>
 		<pubDate>Mon, 11 Jul 2016 12:32:36 +0000</pubDate>
-		<guid isPermaLink="false">/?p=547#comment-8</guid>
+		<guid isPermaLink="false">./../../../index.html?p=547#comment-8</guid>
 
 					<description><![CDATA[[&#8230;] είναι του Σπύρου Τζώρτζη. Αναδημοσιεύουμε από το blog [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] είναι του Σπύρου Τζώρτζη. Αναδημοσιεύουμε από το blog [&#8230;]</p>

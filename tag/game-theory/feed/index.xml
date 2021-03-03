@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Θεωρία Παιγνίων &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="/tag/game-theory/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Fri, 26 Jun 2020 20:47:39 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>./../../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Θεωρία Παιγνίων &#8211; Σπύρος Τζώρτζης</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Burn the bridges</title>
-		<link>/2015/burn-the-bridges/</link>
-					<comments>/2015/burn-the-bridges/#respond</comments>
+		<link>./../../../2015/burn-the-bridges/index.html</link>
+					<comments>./../../../2015/burn-the-bridges/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Thu, 12 Feb 2015 14:22:10 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
 		<category><![CDATA[Θεωρία Παιγνίων]]></category>
-		<guid isPermaLink="false">/?p=152</guid>
+		<guid isPermaLink="false">./../../../index.html?p=152</guid>
 
 					<description><![CDATA[<p>Παίρνω το ρίσκο σημαίνει ότι αναλαμβάνω την ευθύνη των αποφάσεών μου. Ασχέτως αν υπάρχει ή όχι backup plan, αυτό που βλέπω μπροστά μου είναι το μοναδικό πιθανό outcome.</p>
-<p>The post <a rel="nofollow" href="/2015/burn-the-bridges/">Burn the bridges</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2015/burn-the-bridges/index.html">Burn the bridges</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <pre class="wp-block-preformatted">Γέφυρα Ludendorff, 17 Μαρτίου 1945</pre>
@@ -85,10 +85,10 @@
 
 
 <p>Οπότε σήμερα λέω να&nbsp;μείνω σπίτι και να&nbsp;δω το The Good Wife (S2).<br>Have fun everybody.</p>
-<p>The post <a rel="nofollow" href="/2015/burn-the-bridges/">Burn the bridges</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2015/burn-the-bridges/index.html">Burn the bridges</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/burn-the-bridges/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2015/burn-the-bridges/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

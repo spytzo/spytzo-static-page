@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Ελπίδα και οργή	</title>
-	<atom:link href="/2012/elpida-kai-orgi/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/elpida-kai-orgi/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:55:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

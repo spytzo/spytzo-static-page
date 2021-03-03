@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Science Fiction &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="/tag/science-fiction/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Fri, 26 Jun 2020 20:44:29 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>./../../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Science Fiction &#8211; Σπύρος Τζώρτζης</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Η καύτρα που παγώνει</title>
-		<link>/2015/kautra/</link>
-					<comments>/2015/kautra/#respond</comments>
+		<link>./../../../2015/kautra/index.html</link>
+					<comments>./../../../2015/kautra/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Mon, 09 Feb 2015 21:29:06 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
 		<category><![CDATA[Cinema]]></category>
 		<category><![CDATA[Science Fiction]]></category>
-		<guid isPermaLink="false">/?p=137</guid>
+		<guid isPermaLink="false">./../../../index.html?p=137</guid>
 
 					<description><![CDATA[<p>Μόλις επέστρεψα από το σινεμά, μόλις επέστρεψε το κρύο στην Αθήνα. Είναι ξανά η στιγμή -νιώθω- να βγάλω το μπλε μου παλτουδάκι, αυτό που πήραμε μαζί. Γυρίζω τούμπα τη χιονόμπαλα και το χιόνι αρνείται να πέσει, όπως στις ταινίες που ο χρόνος σταματά, όπως το ποτάμι δεν κυλάει όταν δεν έχει πού να πάει.</p>
-<p>The post <a rel="nofollow" href="/2015/kautra/">Η καύτρα που παγώνει</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2015/kautra/index.html">Η καύτρα που παγώνει</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Ένας γνωστός μου το &#8216;χε και το &#8216;λεγε, πως τον παππού του τον σκότωσε το τσιγάρο. Μέσα στον εμφύλιο, ένας αντάρτης τυφεκιοφόρος τον εντόπισε στο απέναντι βουνό από την καύτρα του τσιγάρου, αυτό που θα λέγαμε η τελευταία του πνοή.</p>
@@ -78,10 +78,10 @@
 
 
 <p>7 λεπτά από τον χρόνο σας. Ευχαριστώ και καληνύχτα.</p>
-<p>The post <a rel="nofollow" href="/2015/kautra/">Η καύτρα που παγώνει</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../2015/kautra/index.html">Η καύτρα που παγώνει</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/kautra/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2015/kautra/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

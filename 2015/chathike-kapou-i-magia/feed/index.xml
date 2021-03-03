@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Χάθηκε κάπου η μαγεία;	</title>
-	<atom:link href="/2015/chathike-kapou-i-magia/feed/" rel="self" type="application/rss+xml" />
-	<link>/2015/chathike-kapou-i-magia/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

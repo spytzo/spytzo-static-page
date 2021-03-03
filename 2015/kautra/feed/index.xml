@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Η καύτρα που παγώνει	</title>
-	<atom:link href="/2015/kautra/feed/" rel="self" type="application/rss+xml" />
-	<link>/2015/kautra/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Fri, 26 Jun 2020 20:44:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
