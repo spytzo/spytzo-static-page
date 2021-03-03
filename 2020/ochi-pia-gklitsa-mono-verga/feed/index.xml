@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Όχι πια γκλίτσα, μόνο βέργα	</title>
-	<atom:link href="/2020/ochi-pia-gklitsa-mono-verga/feed/" rel="self" type="application/rss+xml" />
-	<link>/2020/ochi-pia-gklitsa-mono-verga/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sun, 03 Jan 2021 20:07:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,16 +20,16 @@
 	<item>
 		<title>
 		Από: Σπύρος		</title>
-		<link>/2020/ochi-pia-gklitsa-mono-verga/#comment-34</link>
+		<link>./../index.html#comment-34</link>
 
 		<dc:creator><![CDATA[Σπύρος]]></dc:creator>
 		<pubDate>Sun, 03 Jan 2021 20:07:00 +0000</pubDate>
-		<guid isPermaLink="false">/?p=3331#comment-34</guid>
+		<guid isPermaLink="false">./../../../index.html?p=3331#comment-34</guid>
 
-					<description><![CDATA[Σε απάντηση στο &lt;a href=&quot;/2020/ochi-pia-gklitsa-mono-verga/#comment-33&quot;&gt;Gial&lt;/a&gt;.
+					<description><![CDATA[Σε απάντηση στο &lt;a href=&quot;./../index.html#comment-33&quot;&gt;Gial&lt;/a&gt;.
 
 Εγώ ευχαριστώ για το share :-)]]></description>
-			<content:encoded><![CDATA[<p>Σε απάντηση στο <a href="/2020/ochi-pia-gklitsa-mono-verga/#comment-33">Gial</a>.</p>
+			<content:encoded><![CDATA[<p>Σε απάντηση στο <a href="./../index.html#comment-33">Gial</a>.</p>
 <p>Εγώ ευχαριστώ για το share 🙂</p>
 ]]></content:encoded>
 		
@@ -37,11 +37,11 @@
 		<item>
 		<title>
 		Από: Gial		</title>
-		<link>/2020/ochi-pia-gklitsa-mono-verga/#comment-33</link>
+		<link>./../index.html#comment-33</link>
 
 		<dc:creator><![CDATA[Gial]]></dc:creator>
 		<pubDate>Sun, 03 Jan 2021 09:56:03 +0000</pubDate>
-		<guid isPermaLink="false">/?p=3331#comment-33</guid>
+		<guid isPermaLink="false">./../../../index.html?p=3331#comment-33</guid>
 
 					<description><![CDATA[Ευχαριστούμε!]]></description>
 			<content:encoded><![CDATA[<p>Ευχαριστούμε!</p>
@@ -57,7 +57,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 24/26 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 2/25 queries in 0.010 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:13:04 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:24:37 by W3 Total Cache
 -->

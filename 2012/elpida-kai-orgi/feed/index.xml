@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Ελπίδα και οργή	</title>
-	<atom:link href="/2012/elpida-kai-orgi/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/elpida-kai-orgi/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:55:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -26,7 +26,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 24/26 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 2/23 queries in 0.010 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:13:24 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:24:56 by W3 Total Cache
 -->

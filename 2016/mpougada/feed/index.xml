@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Μπουγάδα	</title>
-	<atom:link href="/2016/mpougada/feed/" rel="self" type="application/rss+xml" />
-	<link>/2016/mpougada/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:56:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -26,7 +26,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 24/26 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 2/23 queries in 0.011 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:13:45 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:25:19 by W3 Total Cache
 -->

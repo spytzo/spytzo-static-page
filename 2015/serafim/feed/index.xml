@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Σεραφείμ	</title>
-	<atom:link href="/2015/serafim/feed/" rel="self" type="application/rss+xml" />
-	<link>/2015/serafim/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Από: Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι - Σπύρος Τζώρτζης		</title>
-		<link>/2015/serafim/#comment-6</link>
+		<link>./../index.html#comment-6</link>
 
 		<dc:creator><![CDATA[Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι - Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Wed, 30 Nov 2016 23:15:28 +0000</pubDate>
-		<guid isPermaLink="false">/?p=459#comment-6</guid>
+		<guid isPermaLink="false">./../../../index.html?p=459#comment-6</guid>
 
 					<description><![CDATA[[&#8230;] νύχτα και μετά από βροχή. Μάλιστα πρέπει να είμαι σκύλος ή κάτι τέτοιο, έτσι καταλαβαίνω την κίνηση. Πιθανώς να [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] νύχτα και μετά από βροχή. Μάλιστα πρέπει να είμαι σκύλος ή κάτι τέτοιο, έτσι καταλαβαίνω την κίνηση. Πιθανώς να [&#8230;]</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Από: Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι - Σπύρος Τζώρτζης		</title>
-		<link>/2015/serafim/#comment-5</link>
+		<link>./../index.html#comment-5</link>
 
 		<dc:creator><![CDATA[Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι - Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 14 Nov 2015 18:46:45 +0000</pubDate>
-		<guid isPermaLink="false">/?p=459#comment-5</guid>
+		<guid isPermaLink="false">./../../../index.html?p=459#comment-5</guid>
 
 					<description><![CDATA[[&#8230;]  Σεραφείμ  [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;]  Σεραφείμ  [&#8230;]</p>
@@ -54,7 +54,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 24/26 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 2/25 queries in 0.012 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:13:31 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:25:04 by W3 Total Cache
 -->

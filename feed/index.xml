@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Σπύρος Τζώρτζης</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Fri, 22 Jan 2021 10:38:07 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>./../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Σπύρος Τζώρτζης</title>
-	<link>/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Όχι πια γκλίτσα, μόνο βέργα</title>
-		<link>/2020/ochi-pia-gklitsa-mono-verga/</link>
-					<comments>/2020/ochi-pia-gklitsa-mono-verga/#comments</comments>
+		<link>./../2020/ochi-pia-gklitsa-mono-verga/index.html</link>
+					<comments>./../2020/ochi-pia-gklitsa-mono-verga/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Tue, 29 Dec 2020 19:11:31 +0000</pubDate>
 				<category><![CDATA[Πολιτική Οικονομία]]></category>
-		<guid isPermaLink="false">/?p=3331</guid>
+		<guid isPermaLink="false">./../index.html?p=3331</guid>
 
 					<description><![CDATA[<p>Άμα κάποια μέρα ενδιαφερθείς να καταλάβεις τί παίζει με την πολιτική στην Ελλάδα, καλόν είναι να ξεκινήσεις από τα απλά και τα προφανή, όχι από τα σύνθετα κι απόκρυφα όπως κάνει ο πολύς ο κόσμος. Αν ήμουν, μάλιστα, στη θέση σου θα άφηνα πίσω μου τις αμαρτίες της μεγάλης πόλης και θα έφευγα όσα περισσότερα [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2020/ochi-pia-gklitsa-mono-verga/">Όχι πια γκλίτσα, μόνο βέργα</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2020/ochi-pia-gklitsa-mono-verga/index.html">Όχι πια γκλίτσα, μόνο βέργα</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p class="has-drop-cap">Άμα κάποια μέρα ενδιαφερθείς να καταλάβεις τί παίζει με την πολιτική στην Ελλάδα, καλόν είναι να ξεκινήσεις από τα απλά και τα προφανή, όχι από τα σύνθετα κι απόκρυφα όπως κάνει ο πολύς ο κόσμος. Αν ήμουν, μάλιστα, στη θέση σου θα άφηνα πίσω μου τις αμαρτίες της μεγάλης πόλης και θα έφευγα όσα περισσότερα χιλιόμετρα μακριά γίνεται για να φτάσω στο μεγάλο έξω, στα φρεσκοβροχισμένα εκτάρια της ελληνικής υπαίθρου.</p>
@@ -69,7 +69,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="632" height="420" src="/wp-content/uploads/2020/12/μαρία-τζομπανάκη.jpg" alt="" class="wp-image-3350" srcset="/wp-content/uploads/2020/12/μαρία-τζομπανάκη.jpg 632w, /wp-content/uploads/2020/12/μαρία-τζομπανάκη-300x199.jpg 300w" sizes="(max-width: 632px) 100vw, 632px" /><figcaption>Όποιος πειράξει τη Μαρία θα &#8216;χει να κάνει μαζί μου</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" width="632" height="420" src="./../wp-content/uploads/2020/12/μαρία-τζομπανάκη.jpg" alt="" class="wp-image-3350" srcset="./../wp-content/uploads/2020/12/μαρία-τζομπανάκη.jpg 632w, ./../wp-content/uploads/2020/12/μαρία-τζομπανάκη-300x199.jpg 300w" sizes="(max-width: 632px) 100vw, 632px" /><figcaption>Όποιος πειράξει τη Μαρία θα &#8216;χει να κάνει μαζί μου</figcaption></figure>
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1024x576.jpg" alt="" class="wp-image-3357" width="610" height="343" srcset="/wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1024x576.jpg 1024w, /wp-content/uploads/2020/12/ta-skylia-ton-afentikon-300x169.jpg 300w, /wp-content/uploads/2020/12/ta-skylia-ton-afentikon-768x432.jpg 768w, /wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1536x864.jpg 1536w, /wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1200x675.jpg 1200w, /wp-content/uploads/2020/12/ta-skylia-ton-afentikon.jpg 1600w" sizes="(max-width: 610px) 100vw, 610px" /><figcaption>Τα σκυλιά των αφεντικών. Μας.</figcaption></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1024x576.jpg" alt="" class="wp-image-3357" width="610" height="343" srcset="./../wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1024x576.jpg 1024w, ./../wp-content/uploads/2020/12/ta-skylia-ton-afentikon-300x169.jpg 300w, ./../wp-content/uploads/2020/12/ta-skylia-ton-afentikon-768x432.jpg 768w, ./../wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1536x864.jpg 1536w, ./../wp-content/uploads/2020/12/ta-skylia-ton-afentikon-1200x675.jpg 1200w, ./../wp-content/uploads/2020/12/ta-skylia-ton-afentikon.jpg 1600w" sizes="(max-width: 610px) 100vw, 610px" /><figcaption>Τα σκυλιά των αφεντικών. Μας.</figcaption></figure>
 
 
 
@@ -130,26 +130,26 @@
 
 
 <p>Photo by <a href="https://unsplash.com/@yasingucluturk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Yasin Guçluturk</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-<p>The post <a rel="nofollow" href="/2020/ochi-pia-gklitsa-mono-verga/">Όχι πια γκλίτσα, μόνο βέργα</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2020/ochi-pia-gklitsa-mono-verga/index.html">Όχι πια γκλίτσα, μόνο βέργα</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/ochi-pia-gklitsa-mono-verga/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2020/ochi-pia-gklitsa-mono-verga/feed/index.html</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Γιατί είχα χέρια καθαρά</title>
-		<link>/2020/giati-eixa-xeria-kathara/</link>
-					<comments>/2020/giati-eixa-xeria-kathara/#respond</comments>
+		<link>./../2020/giati-eixa-xeria-kathara/index.html</link>
+					<comments>./../2020/giati-eixa-xeria-kathara/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Fri, 22 May 2020 21:57:02 +0000</pubDate>
 				<category><![CDATA[Digital]]></category>
-		<guid isPermaLink="false">/?p=3006</guid>
+		<guid isPermaLink="false">./../index.html?p=3006</guid>
 
 					<description><![CDATA[<p>Χρειάστηκε πολλή προσπάθεια (ΟΚ, καθόλου) ώστε να υποχωρήσω και τελικά να χρησιμοποιήσω έναν τόσο clickbait τίτλο. Από την άλλη, εδώ είναι το ίντερνετ και αυτά επιτρέπονται, σωστά; Πάμε στην ουσία. Γράφω εδώ αυτό το μικρό σημείωμα για να μοιραστώ μαζί σας ένα καινούργιο business trend που φαίνεται ότι κερδίζει έδαφος πάρα πολύ γρήγορα, κι αυτό [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2020/giati-eixa-xeria-kathara/">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2020/giati-eixa-xeria-kathara/index.html">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Χρειάστηκε πολλή προσπάθεια (ΟΚ, καθόλου) ώστε να υποχωρήσω και τελικά να χρησιμοποιήσω έναν τόσο clickbait τίτλο. Από την άλλη, εδώ είναι το ίντερνετ και αυτά επιτρέπονται, σωστά;</p>
@@ -196,7 +196,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg" alt="" class="wp-image-3009" srcset="/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg 1024w, /wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-300x225.jpg 300w, /wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-768x576.jpg 768w, /wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1536x1152.jpg 1536w, /wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-2048x1536.jpg 2048w, /wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1200x900.jpg 1200w, /wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1980x1485.jpg 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg" alt="" class="wp-image-3009" srcset="./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg 1024w, ./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-300x225.jpg 300w, ./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-768x576.jpg 768w, ./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1536x1152.jpg 1536w, ./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-2048x1536.jpg 2048w, ./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1200x900.jpg 1200w, ./../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1980x1485.jpg 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -209,26 +209,26 @@
 
 
 <p>Στον αντίποδα, κινήσεις όπως είναι ο GDPR ή το California Consumer Privacy Act είναι τέτοια φρένα. Οι Επιτροπές Ανταγωνισμού των ΗΠΑ, της Γαλλίας και της Γερμανίας είναι τέτοια αναχώματα και τα έχουμε ανάγκη.</p>
-<p>The post <a rel="nofollow" href="/2020/giati-eixa-xeria-kathara/">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2020/giati-eixa-xeria-kathara/index.html">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/giati-eixa-xeria-kathara/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2020/giati-eixa-xeria-kathara/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Τα προνόμια</title>
-		<link>/2020/ta-pronomia/</link>
-					<comments>/2020/ta-pronomia/#respond</comments>
+		<link>./../2020/ta-pronomia/index.html</link>
+					<comments>./../2020/ta-pronomia/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 09 May 2020 21:29:45 +0000</pubDate>
 				<category><![CDATA[Πολιτική Οικονομία]]></category>
-		<guid isPermaLink="false">/?p=2922</guid>
+		<guid isPermaLink="false">./../index.html?p=2922</guid>
 
 					<description><![CDATA[<p>Αρχικά, γεννήθηκα. Αυτό από μόνο του σημαίνει ότι είμαι ένας από τους τρεις επιτυχημένους συνδυασμούς ωαρίων και σπερματοζωαρίων ανάμεσα σε αναρίθμητους άλλους μεταξύ των γονιών μου που δεν συνέβησαν ποτέ. Αν εξαιρέσει κανείς τις 4.142 λέξεις του λήμματος στη Wikipedia με όλους τους πιθανούς λόγους παιδικής θνησιμότητας, δεν υπάρχει κανένας λόγος ανησυχίας, να σας ζήσει, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2020/ta-pronomia/">Τα προνόμια</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2020/ta-pronomia/index.html">Τα προνόμια</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p class="has-drop-cap">Αρχικά, γεννήθηκα. Αυτό από μόνο του σημαίνει ότι είμαι ένας από τους τρεις επιτυχημένους συνδυασμούς ωαρίων και σπερματοζωαρίων ανάμεσα σε αναρίθμητους άλλους μεταξύ των γονιών μου που δεν συνέβησαν ποτέ. Αν εξαιρέσει κανείς τις 4.142 λέξεις του λήμματος στη Wikipedia με όλους τους πιθανούς <a href="http://Causes/ of infant mortality directly lead to the death.[15] Environmental and social barriers prevent access to basic medical resources and thus contribute to an increasing infant mortality rate; 99% of infant deaths occur in developing countries, and 86% of these deaths are due to infections, premature births, complications during delivery, and perinatal asphyxia and birth injuries.[12] Greatest percentage reduction of infant mortality occurs in countries that already have low rates of infant mortality.[16] Common causes are preventable with low-cost measures. In the United States, a primary determinant of infant mortality risk is infant birth weight with lower birth weights increasing the risk of infant mortality. The determinants of low birth weight include socio-economic, psychological, behavioral and environmental factors.[17] Medical  Causes of infant mortality and deaths that are related to medical conditions include: low birth weight, sudden infant death syndrome, malnutrition, congenital malformations, and infectious diseases, low income for health care including neglected tropical diseases. Congenital malformations  Congenital malformations are birth defects that babies are born with, such as cleft lip and palate, Down syndrome, and heart defects. Some congenital malformations may be more likely when the mother consumes alcohol, but it can also be a cause of genetics or have an unknown cause.[18] congenital malformations have had a significant impact on infant mortality. Malnutrition and infectious diseases were the main cause of death in more undeveloped countries. In the Caribbean and Latin America, congenital malformations only accounted for 5% of the infant deaths in these countries while malnutrition and infectious diseases took 7% to 27% of infants in the 1980s.[19] In more developed countries such as the United States, there was a rise in infant deaths due to congenital malformations. These birth defects mostly had to do with heart and central nervous system. In the 19th century, there was a decrease in the number of infant deaths from heart diseases. From 1979 to 1997, there was a 39% decline in infant mortality due to heart problems.[20] Low birth weight Main article: Low birth weight  Low birth weight makes up 60–80% of the infant mortality rate in developing countries. The New England Journal of Medicine stated that &quot;The lowest mortality rates occur among infants weighing 3,000 to 3,500 g (6.6 to 7.7 lb). For infants born weighing 2,500 g (5.5 lb) or less, the mortality rate rapidly increases with decreasing weight, and most of the infants weighing 1,000 g (2.2 lb) or less die. As compared with normal-birth-weight infants, those with low weight at birth are almost 40 times more likely to die in the neonatal period; for infants with very low weight at birth the relative risk of neonatal death is almost 200 times greater.&quot; Infant mortality due to low birth weight is usually a direct cause stemming from other medical complications such as preterm birth, poor maternal nutritional status, lack of prenatal care, maternal sickness during pregnancy, and an unhygienic home environments.[12] Along with birth weight, period of gestation makes up the two most important predictors of an infant's chances of survival and their overall health.[21]  According to the New England Journal of Medicine, &quot;in the past two decades, the infant mortality rate (deaths under one year of age per thousand live births) in the United States has declined sharply.&quot; Low birth weights from African American mothers remain twice as high as that of white women. LBW may be the leading cause of infant deaths, and it is greatly preventable. Although it is preventable, the solutions may not be the easiest but effective programs to help prevent LBW are a combination of health care, education, environment, mental modification and public policy, influencing a culture supporting lifestyle.[22] Preterm birth is the leading cause of newborn deaths worldwide.[23] Even though America excels past many other countries in the care and saving of premature infants, the percentage of American woman who deliver prematurely is comparable to those in developing countries. Reasons for this include teenage pregnancy, increase in pregnant mothers over the age of thirty-five, increase in the use of in-vitro fertilization which increases the risk of multiple births, obesity and diabetes. Also, women who do not have access to health care are less likely to visit a doctor, therefore increasing their risk of delivering prematurely.[24] Sudden infant death syndrome Main article: Sudden infant death syndrome  Sudden infant death syndrome(SIDS) is a syndrome where an infant dies in their sleep with no reason behind it. Even with a complete autopsy, no one has been able to figure out what causes this disease. This disease is more common in Western countries.[25] Even though researchers are not sure what causes this disease, they have discovered that it is healthier for babies to sleep on their backs instead of their stomachs.[26] This discovery saved many families from the tragedy that this disease causes. Scientists have also discovered three causes within a model they created called &quot;the contemporary triple risk model&quot;. This model states that three conditions such as the mother smoking while pregnant, the age of the infant, and stress referring to conditions such as overheating, prone sleeping, co-sleeping, and head covering.[25] Malnutrition Main article: Undernutrition in children Percentage of population suffering from hunger, World Food Programme, 2013  Malnutrition or undernutrition is defined as inadequate intake of nourishment, such as proteins and vitamins, which adversely affects the growth, energy and development of people all over the world.[27] It is especially prevalent in women and infants under 5 who live in developing countries within the poorer regions of Africa, Asia, and Latin America.[28] Children are most vulnerable as they have yet to fully develop a strong immune system, as well as being dependent upon parents to provide the necessary food and nutritional intake. It is estimated that about 3.5 million children die each year as a result of childhood or maternal malnutrition, with stunted growth, low body weight and low birth weight accounting for about 2.2 million associated deaths.[29] Factors which contribute to malnutrition are socioeconomic, environmental, gender status, regional location, and breastfeeding cultural practices.[30] It is difficult to assess the most pressing factor as they can intertwine and vary among regions. Adverse effects of malnutrition  Children suffering from malnutrition face adverse physical effects such as stunting, wasting, or being overweight.[31] Such characteristics entail difference in weight-and-height ratios for age in comparison to adequate standards. In Africa the number of stunted children has risen, while Asia holds the most children under 5 suffering from wasting.[32] The amount of overweight children has increased among all regions of the globe.[32] Inadequate nutrients adversely effect physical and cognitive developments, increasing susceptibility to severe health problems. Micronutrient deficiency such as iron has been linked to children with anemia, fatigue, and poor brain development.[31] Similarly, the lack of Vitamin A is the leading cause of blindness among malnourished children.[31] The outcome of malnutrition in children results in decreased ability of the immune system to fight infections, resulting in higher rates of death from diseases such as malaria, respiratory disease and diarrhea.[33] Infectious diseases  Babies born in low to middle income countries in sub-Saharan Africa and southern Asia are at the highest risk of neonatal death. Bacterial infections of the bloodstream, lungs, and the brain's covering (meningitis) are responsible for 25% of neonatal deaths. Newborns can acquire infections during birth from bacteria that are present in their mother's reproductive tract. The mother may not be aware of the infection, or she may have an untreated pelvic inflammatory disease or sexually transmitted disease. These bacteria can move up the vaginal canal into the amniotic sac surrounding the baby. Maternal blood-borne infection is another route of bacterial infection from mother to baby. Neonatal infection is also more likely with the premature rupture of the membranes (PROM) of the amniotic sac.[34]  Seven out of ten childhood deaths are due to infectious diseases: acute respiratory infection, diarrhea, measles, and malaria. Acute respiratory infection such as pneumonia, bronchitis, and bronchiolitis account for 30% of childhood deaths; 95% of pneumonia cases occur in the developing world. Diarrhea is the second-largest cause of childhood mortality in the world, while malaria causes 11% of childhood deaths. Measles is the fifth-largest cause of childhood mortality.[12][35] Folic acid for mothers is one way to combat iron deficiency. A few public health measures used to lower levels of iron deficiency anemia include iodize salt or drinking water, and include vitamin A and multivitamin supplements into a mother's diet.[12] A deficiency of this vitamin causes certain types of anemia (low red blood cell count).[36] Environmental  Infant mortality rate can be a measure of a nation's health and social condition.[21][37] It is a composite of a number of component rates which have their separate relationship with various social factors and can often be seen as an indicator to measure the level of socioeconomic disparity within a country.[37]  Organic water pollution is a better indicator of infant mortality than health expenditures per capita. Water contaminated with various pathogens houses a host of parasitic and microbial infections. Infectious disease and parasites are carried via water pollution from animal wastes.[38] Areas of low socioeconomic status are more prone to inadequate plumbing infrastructure, and poorly maintained facilities.[12] The burning of inefficient fuels doubles the rate of children under 5 years old with acute respiratory tract infections.[12] Climate and geography often play a role in sanitation conditions. For example, the inaccessibility of clean water exacerbates poor sanitation conditions.[38]  People who live in areas where particulate matter (PM) air pollution is higher tend to have more health problems across the board. Short-term and long-term effects of ambient air pollution are associated with an increased mortality rate, including infant mortality. Air pollution is consistently associated with post neonatal mortality due to respiratory effects and sudden infant death syndrome. Specifically, air pollution is highly associated with SIDs in the United States during the post-neonatal stage.[39] High infant mortality is exacerbated because newborns are a vulnerable subgroup that is affected by air pollution.[40] Newborns who were born into these environments are no exception. Women who are exposed to greater air pollution on a daily basis who are pregnant should be closely watched by their doctors, as well as after the baby is born. Babies who live in areas with less air pollution have a greater chance of living until their first birthday. As expected, babies who live in environments with more air pollution are at greater risk for infant mortality. Areas that have higher air pollution also have a greater chance of having a higher population density, higher crime rates and lower income levels, all of which can lead to higher infant mortality rates.[41]  The key pollutant for infant mortality rates is carbon monoxide. Carbon monoxide is a colorless, odorless gas that does great harm especially to infants because of their immature respiratory system.[42] Another major pollutant is second-hand smoke, which is a pollutant that can have detrimental effects on a fetus. According to the American Journal of Public Health, &quot;in 2006, more than 42 000 Americans died of second hand smoke-attributable diseases, including more than 41 000 adults and nearly 900 infants ... fully 36% of the infants who died of low birth weight caused by exposure to maternal smoking in utero were Blacks, as were 28% of those dying of respiratory distress syndrome, 25% dying of other respiratory conditions, and 24% dying of sudden infant death syndrome.&quot; The American Journal of Epidemiology also stated that &quot;Compared with nonsmoking women having their first birth, women who smoked less than one pack of cigarettes per day had a 25% greater risk of mortality, and those who smoked one or more packs per day had a 56% greater risk. Among women having their second or higher birth, smokers experienced 30% greater mortality than nonsmokers.&quot;  Modern research in the United States on racial disparities in infant mortality suggests a link between the institutionalized racism that pervades the environment and high rates of African American infant mortality. In synthesis of this research, it has been observed that &quot;African American infant mortality remains elevated due to the social arrangements that exist between groups and the lifelong experiences responding to the resultant power dynamics of these arrangements.&quot;[17]  It is important to note that infant mortality rates do not decline among African Americans even if their socio-economic status does improve. Parker Dominguez at the University of Southern California has made some headway in determining the reasoning behind this, claiming black women are more prone to psychological stress than other women of different races in the United States. Stress is a lead factor in inducing labor in pregnant women, and therefore high levels of stress during pregnancy could lead to premature births that have the potential to be fatal for the infant.[43] Early childhood trauma  Early childhood trauma includes physical, sexual, and psychological abuse of a child ages zero to five years-old. Trauma in early development has extreme impact over the course of a lifetime and is a significant contributor to infant mortality. Developing organs are fragile. When an infant is shaken, beaten, strangled, or raped the impact is exponentially more destructive than when the same abuse occurs in a fully developed body. Studies estimate that 1–2 per 100,000 U.S. children annually are fatally injured. Unfortunately, it is reasonable to assume that these statistics under represent actual mortality.[44][45] Three-quarters (74.8 percent) of child fatalities in FFY 2015 involved children younger than 3 years, and children younger than 1 year accounted for 49.4 percent of all fatalities.[44] In particular, correctly identifying deaths due to neglect is problematic and children with sudden unexpected death or those with what appear to be unintentional causes on the surface often have preventable risk factors which are substantially similar to those in families with maltreatment.  There is a direct relationship between age of maltreatment/injury and risk for death. The younger an infant is, the more dangerous the maltreatment.[46]  Family configuration,[47][48] child gender, social isolation, lack of support, maternal youth, marital status, poverty, parental ACES, and parenting practices[49] are thought to contribute to increased risk.[44] Socio-economic factors Infant mortality rates are higher in countries with higher economic inequality  Social class is a major factor in infant mortality, both historically and today. Between 1912 and 1915, the Children's Bureau in the United States examined data across eight cities and nearly 23,000 live births. They discovered that lower incomes tend to correlate with higher infant mortality. In cases where the father had no income, the rate of infant mortality was 357% more than that for the highest income earners ($1,250+). Differences between races were also apparent. African-American mothers experience infant mortality at a rate 44% higher than average;[50] however, research indicates that socio-economic factors do not totally account for the racial disparities in infant mortality.[17]  While infant mortality is normally negatively correlated with GDP, there may indeed be some opposing short-term effects from a recession. A recent study by The Economist showed that economic slowdowns reduce the amount of air pollution, which results in a lower infant mortality rate. In the late 1970s and early 1980s, the recession's impact on air quality is estimated to have saved around 1,300 US babies.[51] It is only during deep recessions that infant mortality increases. According to Norbert Schady and Marc-François Smitz, recessions when GDP per capita drops by 15% or more increase infant mortality.[52]  Social class dictates which medical services are available to an individual. Disparities due to socioeconomic factors have been exacerbated by advances in medical technology. Developed countries, most notably the United States, have seen a divergence between those living in poverty who cannot afford medical advanced resources, leading to an increased chance of infant mortality, and others.[37] Countries by 2018 GDP (nominal) per capita.[53]  Political modernization perspective, the neo-classical economic theory that scarce goods are most effectively distributed to the market, say that the level of political democracy influences the rate of infant mortality. Developing nations with democratic governments tend to be more responsive to public opinion, social movements, and special interest groups for issues like infant mortality. In contrast, non-democratic governments are more interested in corporate issues and less so in health issues. Democratic status effects the dependency a nation has towards its economic state via export, investments from multinational corporations and international lending institutions.[54]  Levels of socioeconomic development and global integration are inversely related to a nation's infant mortality rate.[12][55] Dependency perspective occurs in a global capital system. A nation's internal impact is highly influenced by its position in the global economy and has adverse effects on the survival of children in developing countries.[38] Countries can experience disproportionate effects from its trade and stratification within the global system.[56] It aids in the global division of labor, distorting the domestic economy of developing nations. The dependency of developing nations can lead to a reduce rate of economic growth, increase income inequality inter- and intra-national, and adversely affects the wellbeing of a nation's population. A collective cooperation between economic countries plays a role in development policies in the poorer, peripheral, countries of the world.[54]  These economic factors present challenges to governments' public health policies.[38] If the nation's ability to raise its own revenues is compromised, governments will lose funding for its health service programs, including services that aim in decreasing infant mortality rates.[54] Peripheral countries face higher levels of vulnerability to the possible negative effects of globalization and trade in relation to key countries in the global market.[38]  Even with a strong economy and economic growth (measured by a country's gross national product), the advances of medical technologies may not be felt by everyone, lending itself to increasing social disparities.[37] In England from 2014 to 2017 a rise in infant mortality was experienced disproportionately in the most deprived local authorities where the previously declining trend in infant mortality was reversed with an additional 24 infant deaths per 100,000 live births per year relative to the previous trend[57] War  In policy, there is a lag time between realization of a problem's possible solution and actual implementation of policy solutions.[clarification needed][58] Infant mortality rates correlate with war, political unrest, and government corruption.[12]  In most cases, war-affected areas will experience a significant increase in infant mortality rates. Having a war taking place where a woman is planning on having a baby is not only stressful on the mother and foetus, but also has several detrimental effects.  However, many other significant factors influence infant mortality rates in war-torn areas. Health care systems in developing countries in the midst of war often collapse. Attaining basic medical supplies and care becomes increasingly difficult. During the Yugoslav Wars in the 1990s Bosnia experienced a 60% decrease in child immunizations. Preventable diseases can quickly become epidemic given the medical conditions during war.[59]  Many developing countries rely on foreign aid for basic nutrition. Transport of aid becomes significantly more difficult in times of war. In most situations the average weight of a population will drop substantially.[60] Expecting mothers are affected even more by lack of access to food and water. During the Yugoslav Wars in Bosnia the number of premature babies born increased and the average birth weight decreased.[59]  There have been several instances in recent years of systematic rape as a weapon of war. Women who become pregnant as a result of war rape face even more significant challenges in bearing a healthy child. Studies suggest that women who experience sexual violence before or during pregnancy are more likely to experience infant death in their children.[61][62][63] Causes of infant mortality in abused women range from physical side effects of the initial trauma to psychological effects that lead to poor adjustment to society. Many women who became pregnant by rape in Bosnia were isolated from their hometowns making life after childbirth exponentially more difficult.[64] Medicine and biology  Developing countries have a lack of access to affordable and professional health care resources, and skilled personnel during deliveries.[12][58] Countries with histories of extreme poverty also have a pattern of epidemics, endemic infectious diseases, and low levels of access to maternal and child healthcare.[54]  The American Academy of Pediatrics recommends that infants need multiple doses of vaccines such as diphtheria-tetanus-acellular pertussis vaccine, Haemophilus influenzae type b (Hib) vaccine, Hepatitis B (HepB) vaccine, inactivated polio vaccine (IPV), and pneumococcal vaccine (PCV). Research was conducted by the Institute of Medicine's Immunization Safety Review Committee concluded that there is no relationship between these vaccines and risk of SIDS in infants. This tells us that not only is it extremely necessary for every child to get these vaccines to prevent serious diseases, but there is no reason to believe that if your child does receive an immunization that it will have any effect on their risk of SIDS.[65] Cultural  High rates of infant mortality occur in developing countries where financial and material resources are scarce and there is a high tolerance to high number of infant deaths. There are circumstances where a number of developing countries to breed a culture where situations of infant mortality such as favoring male babies over female babies are the norm.[12] In developing countries such as Brazil, infant mortality rates are commonly not recorded due to failure to register for death certificates.[66] Failure to register is mainly due to the potential loss of time and money and other indirect costs to the family.[66] Even with resource opportunities such as the 1973 Public Registry Law 6015, which allowed free registration for low-income families, the requirements to qualify hold back individuals who are not contracted workers.[66]  Another cultural reason for infant mortality, such as what is happening in Ghana, is that &quot;besides the obvious, like rutted roads, there are prejudices against wives or newborns leaving the house.&quot;[67] Because of this it is making it even more difficult for the women and newborns to get the treatment that is available to them and that is needed.  Cultural influences and lifestyle habits in the United States can account for some deaths in infants throughout the years. According to the Journal of the American Medical Association &quot;the post neonatal mortality risk (28 to 364 days) was highest among continental Puerto Ricans&quot; compared to babies of the non-Hispanic race. Examples of this include teenage pregnancy, obesity, diabetes and smoking. All are possible causes of premature births, which constitute the second highest cause of infant mortality.[24] Ethnic differences experienced in the United States are accompanied by higher prevalence of behavioral risk factors and sociodemographic challenges that each ethnic group faces.[21] Gender favoritism  Historically, males have had higher infant mortality rates than females. The difference between male and female infant mortality rates have been dependent on environmental, social, and economic conditions. More specifically, males are biologically more vulnerable to infections and conditions associated with prematurity and development. Before 1970, the reasons for male infant mortality were due to infections, and chronic degenerative diseases. However, since 1970, certain cultures emphasizing males has led to a decrease in the infant mortality gap between males and females. Also, medical advances have resulted in a growing number of male infants surviving at higher rates than females due to the initial high infant mortality rate of males.[68]  Genetic components results in newborn females being biologically advantaged when it comes to surviving their first birthday. Males, biologically, have lower chances of surviving infancy in comparison to female babies. As infant mortality rates saw a decrease on a global scale, the gender most affected by infant mortality changed from males experiences a biological disadvantage, to females facing a societal disadvantage.[68] Some developing nations have social and cultural patterns that reflects adult discrimination to favor boys over girls for their future potential to contribute to the household production level. A country's ethnic composition, homogeneous versus heterogeneous, can explain social attitudes and practices. Heterogeneous level is a strong predictor in explaining infant mortality.[55] Birth spacing Map of countries by fertility rate as of 2018  Birth spacing is the time between births. Births spaced at least three years apart from one another are associated with the lowest rate of mortality. The longer the interval between births, the lower the risk for having any birthing complications, and infant, childhood and maternal mortality.[13][69] Higher rates of pre-term births, and low birth weight are associated with birth to conception intervals of less than six months and abortion to pregnancy interval of less than six months. Shorter intervals between births increase the chances of chronic and general under-nutrition; 57% of women in 55 developing countries reported birth spaces shorter than three years; 26% report birth spacing of less than two years. Only 20% of post-partum women report wanting another birth within two years; however, only 40% are taking necessary steps such as family planning to achieve the birth intervals they want.[13]  Unplanned pregnancies and birth intervals of less than twenty-four months are known to correlate with low birth weights and delivery complications. Also, women who are already small in stature tend to deliver smaller than average babies, perpetuating a cycle of being underweight.[12][13][69]">λόγους παιδικής θνησιμότητας</a>, δεν υπάρχει κανένας λόγος ανησυχίας, να σας ζήσει, να τον χαίρεστε, πάμε παρακάτω.</p>
@@ -300,48 +300,48 @@
 
 
 <p><em>Photo by <a href="https://unsplash.com/@mirkoblicke?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mirko Blicke</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></p>
-<p>The post <a rel="nofollow" href="/2020/ta-pronomia/">Τα προνόμια</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2020/ta-pronomia/index.html">Τα προνόμια</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/ta-pronomia/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2020/ta-pronomia/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ανοιχτή Ακρόαση #8 (music only)</title>
-		<link>/2017/anoichti-akroasi-8-music/</link>
-					<comments>/2017/anoichti-akroasi-8-music/#respond</comments>
+		<link>./../2017/anoichti-akroasi-8-music/index.html</link>
+					<comments>./../2017/anoichti-akroasi-8-music/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Fri, 14 Apr 2017 09:58:07 +0000</pubDate>
 				<category><![CDATA[Ανοιχτή Ακρόαση]]></category>
-		<guid isPermaLink="false">/?p=721</guid>
+		<guid isPermaLink="false">./../index.html?p=721</guid>
 
 					<description><![CDATA[<p>Nothing to see here.</p>
-<p>The post <a rel="nofollow" href="/2017/anoichti-akroasi-8-music/">Ανοιχτή Ακρόαση #8 (music only)</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2017/anoichti-akroasi-8-music/index.html">Ανοιχτή Ακρόαση #8 (music only)</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p style="text-align: center;"><iframe src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fspyrostzortzis%2F%25CE%25B1%25CE%25BD%25CE%25BF%25CE%25B9%25CF%2587%25CF%2584%25CE%25AE-%25CE%25B1%25CE%25BA%25CF%2581%25CF%258C%25CE%25B1%25CF%2583%25CE%25B7-8-music-only%2F&amp;hide_cover=1&amp;light=1" width="100%" height="120" frameborder="0"></iframe></p>
-<p>The post <a rel="nofollow" href="/2017/anoichti-akroasi-8-music/">Ανοιχτή Ακρόαση #8 (music only)</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2017/anoichti-akroasi-8-music/index.html">Ανοιχτή Ακρόαση #8 (music only)</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/anoichti-akroasi-8-music/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2017/anoichti-akroasi-8-music/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Να οργανώσουμε την αμηχανία μας</title>
-		<link>/2016/na-organosoume-tin-amichania-mas/</link>
-					<comments>/2016/na-organosoume-tin-amichania-mas/#respond</comments>
+		<link>./../2016/na-organosoume-tin-amichania-mas/index.html</link>
+					<comments>./../2016/na-organosoume-tin-amichania-mas/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Mon, 28 Nov 2016 11:07:40 +0000</pubDate>
 				<category><![CDATA[Πολιτική Οικονομία]]></category>
-		<guid isPermaLink="false">/?p=649</guid>
+		<guid isPermaLink="false">./../index.html?p=649</guid>
 
 					<description><![CDATA[<p>Στην παρούσα φάση, ουδείς γνωρίζει το νέο στρατηγικό σχέδιο αλλά όλοι έχουμε από μια κουβέντα για να το ψηλαφίσουμε, και όλοι και όλες από μερικά σημεία για να βάλουμε στον διάλογο. Σε αυτόν ακριβώς τον διάλογο θα ήθελα να προσθέσω δύο σημεία που θεωρώ σημαντικά και χρήσιμο να τα έχουμε κατά νου.</p>
-<p>The post <a rel="nofollow" href="/2016/na-organosoume-tin-amichania-mas/">Να οργανώσουμε την αμηχανία μας</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/na-organosoume-tin-amichania-mas/index.html">Να οργανώσουμε την αμηχανία μας</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <h3>Ο αποχωρισμός μας από τον ΣΥΡΙΖΑ</h3>
@@ -380,7 +380,7 @@
 
 
 
-<div class="wp-block-image wp-image-655 size-large"><figure class="aligncenter"><img loading="lazy" width="791" height="1024" src="/wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-791x1024.png" alt="" class="wp-image-655" srcset="/wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-791x1024.png 791w, /wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-232x300.png 232w, /wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-768x994.png 768w, /wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2.png 927w" sizes="(max-width: 791px) 100vw, 791px" /><figcaption>2001-04-12 To George W Bush et al re Predicting the Future</figcaption></figure></div>
+<div class="wp-block-image wp-image-655 size-large"><figure class="aligncenter"><img loading="lazy" width="791" height="1024" src="./../wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-791x1024.png" alt="" class="wp-image-655" srcset="./../wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-791x1024.png 791w, ./../wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-232x300.png 232w, ./../wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2-768x994.png 768w, ./../wp-content/uploads/2016/11/2001-04-12-To-George-W-Bush-et-al-re-Predicting-the-Future2.png 927w" sizes="(max-width: 791px) 100vw, 791px" /><figcaption>2001-04-12 To George W Bush et al re Predicting the Future</figcaption></figure></div>
 
 
 
@@ -413,26 +413,26 @@
 
 
 <p><em>Photo by Asa Rodger Vik, Iceland, <a href="https://unsplash.com/photos/hu2_cFFfVSA" target="_blank" rel="noopener noreferrer">https://unsplash.com/photos/hu2_cFFfVSA</a></em></p>
-<p>The post <a rel="nofollow" href="/2016/na-organosoume-tin-amichania-mas/">Να οργανώσουμε την αμηχανία μας</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/na-organosoume-tin-amichania-mas/index.html">Να οργανώσουμε την αμηχανία μας</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/na-organosoume-tin-amichania-mas/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2016/na-organosoume-tin-amichania-mas/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ανοιχτή Ακρόαση #7 &#8211; Νυχτερινοί Κολυμβητές</title>
-		<link>/2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/</link>
-					<comments>/2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/#respond</comments>
+		<link>./../2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/index.html</link>
+					<comments>./../2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sun, 07 Aug 2016 15:04:55 +0000</pubDate>
 				<category><![CDATA[Ανοιχτή Ακρόαση]]></category>
-		<guid isPermaLink="false">/?p=619</guid>
+		<guid isPermaLink="false">./../index.html?p=619</guid>
 
 					<description><![CDATA[<p>Είχε ακόμη ζέστη, και ο δροσερός άνεμος σήκωνε κόκκους άμμου από όλο το πλάτος της ακτής. Γύρισε το κορμί της από την άλλη, και έκλεισε τα μάτια.</p>
-<p>The post <a rel="nofollow" href="/2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/">Ανοιχτή Ακρόαση #7 &#8211; Νυχτερινοί Κολυμβητές</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/index.html">Ανοιχτή Ακρόαση #7 &#8211; Νυχτερινοί Κολυμβητές</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><iframe src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fspyrostzortzis%2F%25CE%25B1%25CE%25BD%25CE%25BF%25CE%25B9%25CF%2587%25CF%2584%25CE%25AE-%25CE%25B1%25CE%25BA%25CF%2581%25CF%258C%25CE%25B1%25CF%2583%25CE%25B7-7-%25CE%25BD%25CF%2585%25CF%2587%25CF%2584%25CE%25B5%25CF%2581%25CE%25B9%25CE%25BD%25CE%25BF%25CE%25AF-%25CE%25BA%25CE%25BF%25CE%25BB%25CF%2585%25CE%25BC%25CE%25B2%25CE%25B7%25CF%2584%25CE%25AD%25CF%2582%2F&amp;hide_cover=1" width="100%" height="120" frameborder="0"></iframe><br />
 <strong>[Submotion Orchestra &#8211; Awakening]</strong><br />
@@ -466,26 +466,26 @@
 <hr />
 <p>Σας ευχαριστώ πάρα πολύ για την παρέα, από τα στούντιο της οδού 25-27, καλό βράδυ και καλό καλοκαίρι για πάντα.<br />
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A1198719900%3Aplaylist%3A3oIUQ6GgFRXEDSVDrX5wfc" width="300" height="380" frameborder="0"></iframe></p>
-<p>The post <a rel="nofollow" href="/2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/">Ανοιχτή Ακρόαση #7 &#8211; Νυχτερινοί Κολυμβητές</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/index.html">Ανοιχτή Ακρόαση #7 &#8211; Νυχτερινοί Κολυμβητές</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2016/anichti-akroasi-7-nuxterinoi-kolumvhtes/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</title>
-		<link>/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/</link>
-					<comments>/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/#comments</comments>
+		<link>./../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html</link>
+					<comments>./../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sun, 12 Jun 2016 00:32:31 +0000</pubDate>
 				<category><![CDATA[Τέχνη]]></category>
-		<guid isPermaLink="false">/?p=547</guid>
+		<guid isPermaLink="false">./../index.html?p=547</guid>
 
 					<description><![CDATA[<p>Είναι το Mr. Robot είναι μία σχιζοφρενική σειρά για την τεχνολογία; Ή μία τεχνολογική σειρά για τη σχιζοφρένεια;</p>
-<p>The post <a rel="nofollow" href="/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Στις 13 Ιουλίου αναμένεται το επεισόδιο 2.1 της τηλεοπτικής σειράς Mr. Robot. Το πρώτο επεισόδιο της σειράς έκανε την εμφάνισή του τον περασμένο Ιούνιο και γρήγορα συγκέντρωσε το ενδιαφέρον κοινού και κριτικών, και όχι άδικα. Πρόκειται για μια σειρά για την <strong>τεχνολογία</strong> και την <strong>διπολικότητα</strong> σε όλες της τις μορφές.<br />
 <span id="more-547"></span><br />
@@ -493,12 +493,12 @@
 <p style="text-align: center;"><strong>Ακολουθούν spoiler για όλη την πρώτη σεζόν!</strong></p>
 <p>Η σειρά αποτελείται, κατά την άποψή μου, από <strong>δύο σετ επεισοδίων,</strong> από το πρώτο μέχρι το πέμπτο επεισόδιο και από το έκτο μέχρι και το τελευταίο. Αυτός ο διαχωρισμός φαίνεται να είναι απόλυτα συνειδητός, ένα συμπέρασμα στο οποίο φτάνει κανείς λίγο πριν το φινάλε. Κατά κάποιον τρόπο, τα πρώτα πέντε επεισόδια είναι σχεδιασμένα να τραβήξουν το ενδιαφέρον του κοινού με πλούσιες αναφορές στην τεχνολογία και την ποπ κουλτούρα, ενώ το δεύτερο μισό έχει αναλάβει τη βαριά δουλειά της σκηνοθεσίας, της εξέλιξη της ιστορίας και των χαρακτήρων, τα κρίσιμα σημεία και τα cliffhangers. Όπως θα δούμε και παρακάτω, ολόκληρη τη σειρά διατρέχει μια αίσθηση διπολικότητας η οποίο χρησιμοποιείται με δημιουργικό τρόπο για το χτίσιμο και την εξέλιξη της ιστορίας.</p>
 <h2>Το Mr. Robot και η τεχνολογία</h2>
-<p><img loading="lazy" class="aligncenter wp-image-549 size-full" src="/wp-content/uploads/2016/06/mr_robot_technology.jpg" alt="mr_robot_technology" width="700" height="467" srcset="/wp-content/uploads/2016/06/mr_robot_technology.jpg 700w, /wp-content/uploads/2016/06/mr_robot_technology-300x200.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /><br />
+<p><img loading="lazy" class="aligncenter wp-image-549 size-full" src="./../wp-content/uploads/2016/06/mr_robot_technology.jpg" alt="mr_robot_technology" width="700" height="467" srcset="./../wp-content/uploads/2016/06/mr_robot_technology.jpg 700w, ./../wp-content/uploads/2016/06/mr_robot_technology-300x200.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /><br />
 Καταρχάς, η σειρά από την αρχή μέχρι το τέλος είναι <strong>το πανηγύρι του geek, </strong>του χάκερ, του πληροφορικάριου αλλά και οποιουδήποτε βλέπει κριτικά την εξέλιξη της τεχνολογίας, του διαδικτύου και της ασφάλειας των προσωπικών δεδομένων.<br />
 Και είναι τόσο μεγάλη αυτή η απόλαυση γιατί επιτέλους η τεχνολογία αποτυπώνεται και παρουσιάζεται <strong>με ακρίβεια και ειλικρίνεια</strong> αποφεύγοντας δια ροπάλου κομπιουτερίστικες εξυπνάδες όπως εκείνα τα χολιγουντιανά ανέκδοτα όπου ένας Ρώσος σκακιστής, ένας Ιάπωνας φοιτητής και ένας Αμερικανός gamer χακάρουν το Πεντάγωνο μέρα μεσημέρι απλώς και μόνο γιατί χρησιμοποιούν περισσότερες οθόνες από έναν χρηματιστή της Wall Street.<br />
 Στο Mr. Robot υπάρχουν κωδικοί που δεν σπάνε γιατί είναι ισχυρά κρυπτογραφημένοι (λογικό), οι χάκερ χρησιμοποιούν <strong>Linux</strong> (εξίσου λογικό) και ο Steve Jobs εκμεταλλεύεται παιδική εργασία για να χτίσει την αυτοκρατορία της Apple. Φυσικά, από τη σειρά δεν λείπουν μια σειρά από αναμενόμενα κλισέ τα οποία ικανοποιούν τους geek χωρίς όμως να ξενίζουν το “ευρύ κοινό”.</p>
 <h2>Ο Elliot και η σκηνοθεσία</h2>
-<p><img loading="lazy" class="aligncenter size-full wp-image-550" src="/wp-content/uploads/2016/06/mr_robot_cinematography.jpg" alt="mr_robot_cinematography" width="677" height="381" srcset="/wp-content/uploads/2016/06/mr_robot_cinematography.jpg 677w, /wp-content/uploads/2016/06/mr_robot_cinematography-300x169.jpg 300w" sizes="(max-width: 677px) 100vw, 677px" /><br />
+<p><img loading="lazy" class="aligncenter size-full wp-image-550" src="./../wp-content/uploads/2016/06/mr_robot_cinematography.jpg" alt="mr_robot_cinematography" width="677" height="381" srcset="./../wp-content/uploads/2016/06/mr_robot_cinematography.jpg 677w, ./../wp-content/uploads/2016/06/mr_robot_cinematography-300x169.jpg 300w" sizes="(max-width: 677px) 100vw, 677px" /><br />
 Μία σειρά που ζει και αναπνέει για την απόκρυψη και την αποκάλυψη της πληροφορίας δεν θα μπορούσε παρά να παίζει τα καλύτερα χαρτιά της στην ικανότητά της <strong>να κρύβει πράγματα από τον θεατή.</strong> Όλες οι ενδείξεις που χρειάζεσαι για να ακολουθήσεις το σκοτεινό μονοπάτι στο μυαλό του Elliot βρίσκονται σε κοινή θέα, αλλά δεν γίνονται ορατές παρά μόνο στο τέλος &#8211; όπως συμβαίνει συνήθως και στην πραγματική ζωή.<br />
 Ήδη από τις πρώτες σκηνές του πρώτου επεισοδίου ο Elliot έχει γκρεμίσει τον λεγόμενο<strong> “τέταρτο τοίχο”</strong> που διαχωρίζει τον ήρωα στην οθόνη από εμάς τους θεατές, μια τακτική που εκμεταλλεύτηκε με πολύ όμορφο τρόπο και ο Frank Underwood στο <em>House of Cards</em>. Άξιο παρατήρησης είναι και το πότε οι υπόλοιποι χαρακτήρες αλληλεπιδρούν με τον Elliot και πότε όχι και τί μπορεί να σημαίνει αυτό για την προσωπικότητα και τον ψυχισμό του.<br />
 Είναι ενδιαφέρον, επίσης, ότι στο κινηματογραφικό πλάνο δεν υπάρχει ποτέ κάτι το περιττό και ο σκηνοθέτης σε κατευθύνει να εστιάσεις κάθε φορά ακριβώς εκεί που πρέπει, χρησιμοποιώντας μεταξύ άλλων <strong>ακραία καδραρίσματα</strong> όπως μπορείτε να δείτε εδώ:</p>
@@ -509,7 +509,7 @@
 <h2>Επί της θεωρίας</h2>
 <p>Είναι το Mr. Robot είναι μία σχιζοφρενική σειρά για την τεχνολογία ή μία τεχνολογική σειρά για τη σχιζοφρένεια; Μα και η ίδια η τεχνολογία μας δεν είναι το ίδιο διπολική, ικανή για το καλύτερο και για το χειρότερο;<br />
 Η σειρά αποτελεί σίγουρα μια κριτική στην σύγχρονο κόσμο, στο βαθιά θεμελιωμένο οικονομικό και κοινωνικό μας σύστημα όπου κυρίαρχος είναι πέρα από τον κάτοχο του κεφαλαίου καί ο κάτοχος της πληροφορίας. Το ερώτημά είναι, δεδομένου ότι η τεχνολογία είναι παντού γύρω μας, μπορούμε εμείς να καθορίσουμε την χρήση της ή είμαστε υποχείρια αυτών που την κατέχουν και την χειρίζονται, ακόμα και για καλό σκοπό;<br />
-<img loading="lazy" class="aligncenter size-full wp-image-551" src="/wp-content/uploads/2016/06/mr_robot_fsociety.jpg" alt="mr_robot_fsociety" width="769" height="434" srcset="/wp-content/uploads/2016/06/mr_robot_fsociety.jpg 769w, /wp-content/uploads/2016/06/mr_robot_fsociety-300x169.jpg 300w" sizes="(max-width: 769px) 100vw, 769px" /><br />
+<img loading="lazy" class="aligncenter size-full wp-image-551" src="./../wp-content/uploads/2016/06/mr_robot_fsociety.jpg" alt="mr_robot_fsociety" width="769" height="434" srcset="./../wp-content/uploads/2016/06/mr_robot_fsociety.jpg 769w, ./../wp-content/uploads/2016/06/mr_robot_fsociety-300x169.jpg 300w" sizes="(max-width: 769px) 100vw, 769px" /><br />
 Στη σειρά, η F-Society είναι αδιαμφισβήτητα οι <strong>Anonymous,</strong> η E-Corp φέρει το logo της διαβόητης <strong>Enron</strong> και ο Elliot ταξινομεί τα ευαίσθητα αρχεία του με ονόματα μουσικών δίσκων, μια πιθανή αναφορά στην <strong>Chelsea Manning</strong> που το 2010 παρέδωσε στο Wikileaks απόρρητες πληροφορίες για τον πόλεμο στο Ιράκ και το Αφγανιστάν σε ένα CD με τίτλο “Lady Gaga”.<br />
 Σε άλλα cultural references, εάν έχετε δει το <strong>Fight Club</strong> και σας γάμησε κι εσάς το μυαλό εκεί προς το τέλος, είναι πολύ πιθανό να λατρέψετε και το Mr. Robot. Δεν θα ήθελα να κάνω περισσότερα spoiler, απλώς να πούμε ότι οι αναφορές και οι ομοιότητες κλιμακώνονται ανερυθρίαστα τη στιγμή που ακούγεται η διασκευή σε πιάνο του “Where’s my mind” των Pixies, του τραγουδιού που συνοδεύει την τελευταία σκηνή του Fight Club.<br />
 Τέλος, υπάρχουν αρκετές αναφορές στο Eyes Wide Shut και γενικότερα στον <strong>Stanley Kubrick,</strong> με έναν τρόπο που αναγνωρίζει τη ματιά και την προσέγγιση του μεγάλου σκηνοθέτη και μάλιστα, σε μερικά σημεία, επιχειρεί να την προωθήσει σε νέα μονοπάτια.</p>
@@ -529,26 +529,26 @@
 <li>‘Mr. Robot’ Finale: It’s All In Your Head. Or Is It? &#8211; <a href="https://web.archive.org/web/20160804052722/http://thinkprogress.org/culture/2015/09/03/3698272/mr-robot-finale-its-all-in-your-head-or-is-it/">http://thinkprogress.org/culture/2015/09/03/3698272/mr-robot-finale-its-all-in-your-head-or-is-it/</a></li>
 <li>Program or Be Programmed &#8211; Rushkoff &#8211; <a href="http://www.rushkoff.com/books/program-or-be-programmed/">http://www.rushkoff.com/books/program-or-be-programmed/</a></li>
 </ol>
-<p>The post <a rel="nofollow" href="/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ανοιχτή Ακρόαση #6 &#8211; Όσα δεν λένε οι άνθρωποι μεταξύ τους</title>
-		<link>/2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/</link>
-					<comments>/2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/#respond</comments>
+		<link>./../2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/index.html</link>
+					<comments>./../2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 14 May 2016 23:00:30 +0000</pubDate>
 				<category><![CDATA[Ανοιχτή Ακρόαση]]></category>
-		<guid isPermaLink="false">/?p=533</guid>
+		<guid isPermaLink="false">./../index.html?p=533</guid>
 
 					<description><![CDATA[<p>Οι άνθρωποι δεν μιλάμε μεταξύ μας κι αυτό είναι γκράντε μαλακία, γενικά. Φοβόμαστε, και είναι πολύ λογικό αυτό, απλώς με τη λογική δεν κάνεις πάντοτε χωριό.</p>
-<p>The post <a rel="nofollow" href="/2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/">Ανοιχτή Ακρόαση #6 &#8211; Όσα δεν λένε οι άνθρωποι μεταξύ τους</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/index.html">Ανοιχτή Ακρόαση #6 &#8211; Όσα δεν λένε οι άνθρωποι μεταξύ τους</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><iframe src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2Fspyrostzortzis%2F%25CE%25B1%25CE%25BD%25CE%25BF%25CE%25B9%25CF%2587%25CF%2584%25CE%25AE-%25CE%25B1%25CE%25BA%25CF%2581%25CF%258C%25CE%25B1%25CF%2583%25CE%25B7-6-%25CF%258C%25CF%2583%25CE%25B1-%25CE%25B4%25CE%25B5%25CE%25BD-%25CE%25BB%25CE%25AD%25CE%25BD%25CE%25B5-%25CE%25BF%25CE%25B9-%25CE%25AC%25CE%25BD%25CE%25B8%25CF%2581%25CF%2589%25CF%2580%25CE%25BF%25CE%25B9-%25CE%25BC%25CE%25B5%25CF%2584%25CE%25B1%25CE%25BE%25CF%258D-%25CF%2584%25CE%25BF%25CF%2585%25CF%2582%2F&amp;hide_cover=1&amp;light=1" width="100%" height="120" frameborder="0"></iframe><br>[Outfit &#8211; New Air]<br>Πολύ καλησπέρα σας. Είναι η εκπομπή Ανοιχτή Ακρόαση υπ&#8217;αριθμόν εξι.<br>Σενάριο, σκηνοθεσία, μοντάζ, ρεπεράζ, αμπαλάζ, Σπύρος Τζώρτζης.<br>Πιστοί στο ραντεβού μας, μόλις 11 μήνες από την προηγούμενη Ανοιχτή Ακρόαση, κάθομαι και μιλάω μόνος μου για όσα δεν λένε οι άνθρωποι μεταξύ τους. Κι απέ το να μη μιλάς δεν είναι κακό και κατακριτέο, είναι όμως, κατά πάσα πιθανότητα, κάτι που κανείς άλλος δεν μπορεί να μάθει ότι κάνεις αν δεν του το πεις πρώτα εσύ ο ίδιος.<br><br>Στην επιλογή της μουσικής για σήμερα, είναι μια αυτόματη λίστα του Spotify που μπήκε σχεδόν ολόκληρη ως το μουσικό υπόβαθρο αυτής εδώ της εκπομπής. Κι έχω αρχίσει να ανησυχώ αν εγώ γράφω λογάκια για τη μουσική που μου δόθηκε έτοιμη, ή αν έχει προχωρήσει τόσο το μηχανάκι που έχει αρχίσει να συμβαίνει το αντίθετο. Anyway.</p>
@@ -610,61 +610,61 @@
 
 
 <p> </p>
-<p>The post <a rel="nofollow" href="/2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/">Ανοιχτή Ακρόαση #6 &#8211; Όσα δεν λένε οι άνθρωποι μεταξύ τους</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/index.html">Ανοιχτή Ακρόαση #6 &#8211; Όσα δεν λένε οι άνθρωποι μεταξύ τους</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2016/anichti-akroasi-6-osa-den-lene-anthropi-metaxi-tous/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Κουτσό</title>
-		<link>/2016/koutso/</link>
-					<comments>/2016/koutso/#comments</comments>
+		<link>./../2016/koutso/index.html</link>
+					<comments>./../2016/koutso/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Tue, 29 Mar 2016 01:38:55 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=518</guid>
+		<guid isPermaLink="false">./../index.html?p=518</guid>
 
 					<description><![CDATA[<p>Φίλος είναι εκεί που γκρινιάζεις ελεύθερα. Γενικά μια γεροντίαση την είχα από πάντα. Βγαίνει σε διάφορες βερσιόν και χρώματα αλλά οι φίλοι μου ξέρουν ότι τον τελευταίο καιρό με ταλαιπωρεί πιο πολύ ένας πόνος που δεν με αφήνει, κυριολεκτικά, να σταθώ: ο πόνος στο αριστερό μου πόδι. Ξεκίνησε περίπου πέρισυ τέτοιο καιρό όταν έφυγα από [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2016/koutso/">Κουτσό</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/koutso/index.html">Κουτσό</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Φίλος είναι εκεί που γκρινιάζεις ελεύθερα. Γενικά μια γεροντίαση την είχα από πάντα. Βγαίνει σε διάφορες βερσιόν και χρώματα αλλά οι φίλοι μου ξέρουν ότι τον τελευταίο καιρό με ταλαιπωρεί πιο πολύ ένας πόνος που δεν με αφήνει, κυριολεκτικά, να σταθώ: ο πόνος στο αριστερό μου πόδι.<span id="more-518"></span><br />
 Ξεκίνησε περίπου πέρισυ τέτοιο καιρό όταν έφυγα από την παλιά μου δουλειά και πήγα μόνιμα στη Sociality. Στην αρχή είπα φταίει η καρέκλα, γιατί στο γραφείο μάς είχαν άνετους και ανατομικούς, ενώ στην Πανεπιστημίου έχουμε κάτι πλαστικά καρεκλάκια που τα γυρίζεις γύρω-γύρω για να σηκωθούν πέντε πόντους. Μετά ότι φταίει ότι δεν κάνω γυμναστική, &#8220;μέση θα είναι, να σηκώνεσαι να περπατάς&#8221;, μετά ότι λογικά είναι αυχενικό από τα κωλολάπτοπ γιατί έκανα έτσι πάνω-κάτω και πονούσα.<br />
 Μάρτιο άλλαξα καρέκλα, τον Αύγουστο πήγαμε στα Κύθηρα, τον Σεπτέμβριο στο Λονδίνο, τα Χριστούγεννα στο Βερολίνο κι εγώ συνέχιζα να πονάω &#8211; έμαθα μέχρι και πως να ζητάω παυσίπονα όταν είμαι στο εξωτερικό (παρατσέταμολ).<br />
 Μια μέρα έκανα το λάθος να πάρω μαζί μου στη δουλειά ένα χάπι από αυτά που μου είχαν ξεμείνει από το ταξίδι. Και ήταν λάθος γιατί μέσα σε μισή ώρα χάθηκε ολόκληρο το συννεφάκι που είχα καβαλήσει τόσο καιρό, ο πόνος έφυγε και ξαφνικά (sic) ένιωσα τελείως άδειος, χωρίς νόημα και στόχο, μιας και τώρα είχαν το ελεύθερο να βγουν στην επιφάνεια πιο ουσιαστικές φλεγμονές που κουβαλάω. Ο πόνος στο πόδι ήταν κι αυτός μια κάποια λύση.<br />
 Προσθήκη: Οι φίλοι μου ξέρουν &#8211; εκεί που πάω και γκρινιάζω &#8211; ότι μπορεί να δυσκολεύομαι, να αγχώνομαι, να θέλω λίγο χρόνο παραπάνω, αλλά βασικά το χω.  Εξάλλου δεν ζήτησα κι εγώ ξανά να τρέξω, γέρος άνθρωπος, να περπατήσω θέλω.</p>
-<p>The post <a rel="nofollow" href="/2016/koutso/">Κουτσό</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/koutso/index.html">Κουτσό</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/koutso/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2016/koutso/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Οι δικές μας συνήθειες</title>
-		<link>/2016/dikes-mas-sinithies/</link>
-					<comments>/2016/dikes-mas-sinithies/#respond</comments>
+		<link>./../2016/dikes-mas-sinithies/index.html</link>
+					<comments>./../2016/dikes-mas-sinithies/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 26 Mar 2016 15:50:19 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=523</guid>
+		<guid isPermaLink="false">./../index.html?p=523</guid>
 
 					<description><![CDATA[<p>Υπάρχουν εμπειρίες που σε σχηματίζουν ως άνθρωπο πιο βίαια και πιο δυνατά από ό,τι η συνήθη καθημερινότητά σου.  Μία από αυτές τις εμπειρίες είναι το δρομολόγιο των 23.59 του ΚΤΕΛ Κατερίνης (στάση Κέντρο Υγείας) για Αθήνα (στάση Λιοσίων).</p>
-<p>The post <a rel="nofollow" href="/2016/dikes-mas-sinithies/">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/dikes-mas-sinithies/index.html">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><strong>Υπάρχουν εμπειρίες που σε σχηματίζουν ως άνθρωπο</strong> πιο βίαια και πιο δυνατά από ό,τι η συνήθη καθημερινότητά σου.  Μία από αυτές τις εμπειρίες είναι το δρομολόγιο των 23.59 του ΚΤΕΛ Κατερίνης (στάση Κέντρο Υγείας) για Αθήνα (στάση Λιοσίων).<span id="more-523"></span> Είναι εμπειρία γιατί για τις πρώτες τέσσερις ώρες προσπαθείς να κοιμηθείς αλλά έχει τόση αφόρητη ζέστη από τον κλιματισμό και η Σοφιάννα έριξε την ιδέα να φτιάξει σε όλους από έναν καφέ στις εφτά το απόγευμα. Βέβαια, δεν φταίει η Σ., εσύ φταις που ξέρεις ότι σε πιάνει αλλά λες πάμε. Είναι, ακόμη, εμπειρία γιατί εκεί βαθιά μέσα στη νύχτα, στην βιομηχανικά κατασκευασμένη ερημιά με τους τεράστιους δρόμους, τα διόδια, τις μονάδες παραγωγής κεραμικών και τα logistics, εσύ προσέχεις ότι ο ρυθμός του Yr Love των Holy Other ταιριάζει με την εναλλαγή της διακεκομμένης γραμμής στο οδόστρωμα. Καμμένος, τελείως.<br />
 <iframe title="Holy Other - Yr love" width="580" height="435" src="https://www.youtube.com/embed/Kovqavfh5Lk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 <strong>Υπάρχουν καθημερινότητες που σε σχηματίζουν ως άνθρωπο</strong> πιο βαθιά και πιο ομοιόμορφα από ό,τι οι ακραίες στιγμές στη ζωή σου. Αυτό είναι ένα βασικό επιχείρημα που έχω χρησιμοποιήσει ξανά στο παρελθόν – το πάντα πρόσφατο παρελθόν. Ότι, δηλαδή, αυτό που μας κάνει να ερωτευόμαστε τη ζωή είναι οι καθημερινότητες που έχουμε ενσωματώσει μέσα σε αυτή. Αυτό που μας κάνει να αγαπάμε τους δικούς μας ανθρώπους είναι οι σταθερές που σημαίνουν για εμάς. Αυτές οι μικρές κατακτήσεις χτίζουν χαρακτήρα, όπως λέμε. Μας κάνουν αυτό που είμαστε και νιώθουμε την ιερή θέληση να τις τιμήσουμε και να τις διατηρήσουμε ακόμα και στην ακραία στιγμή που κάποια από αυτές τις σταθερές σταματά να είναι καθημερινότητα.<br />
 Υ.Γ.: Σήμερα παρατήρησα ότι στο μπροστινό κάθισμα του βαν που είχε αναλάβει τα διαδικαστικά της ημέρας υπήρχε ένα κουτί με χαρτομάντηλα. Φαίνεται ότι ούτε οι νεκροθάφτες δεν μπορούν να συνηθίσουν τον θάνατο, δεν χρειάζεται να το κάνουμε εμείς.</p>
-<p>The post <a rel="nofollow" href="/2016/dikes-mas-sinithies/">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../2016/dikes-mas-sinithies/index.html">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="./../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/dikes-mas-sinithies/feed/</wfw:commentRss>
+					<wfw:commentRss>./../2016/dikes-mas-sinithies/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -678,7 +678,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 74/152 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 6/67 queries in 0.029 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:12:52 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:24:23 by W3 Total Cache
 -->

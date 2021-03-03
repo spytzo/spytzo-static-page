@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Κουτσό	</title>
-	<atom:link href="/2016/koutso/feed/" rel="self" type="application/rss+xml" />
-	<link>/2016/koutso/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Από: dtzortzis42		</title>
-		<link>/2016/koutso/#comment-7</link>
+		<link>./../index.html#comment-7</link>
 
 		<dc:creator><![CDATA[dtzortzis42]]></dc:creator>
 		<pubDate>Wed, 30 Mar 2016 08:39:00 +0000</pubDate>
-		<guid isPermaLink="false">/?p=518#comment-7</guid>
+		<guid isPermaLink="false">./../../../index.html?p=518#comment-7</guid>
 
 					<description><![CDATA[Να σου πάρουμε κρεβάτι ρε παλικαράκι μου...!]]></description>
 			<content:encoded><![CDATA[<p>Να σου πάρουμε κρεβάτι ρε παλικαράκι μου&#8230;!</p>
@@ -40,7 +40,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 24/26 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 2/24 queries in 0.010 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:13:09 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:24:41 by W3 Total Cache
 -->

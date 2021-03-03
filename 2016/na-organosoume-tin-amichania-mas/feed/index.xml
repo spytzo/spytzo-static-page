@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Να οργανώσουμε την αμηχανία μας	</title>
-	<atom:link href="/2016/na-organosoume-tin-amichania-mas/feed/" rel="self" type="application/rss+xml" />
-	<link>/2016/na-organosoume-tin-amichania-mas/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sun, 03 Jan 2021 10:46:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -26,7 +26,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 24/26 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 2/23 queries in 0.009 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:13:06 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:24:38 by W3 Total Cache
 -->

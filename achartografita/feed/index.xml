@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Αχαρτογράφητα &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="/achartografita/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:56:24 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,75 +21,75 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>./../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Αχαρτογράφητα &#8211; Σπύρος Τζώρτζης</title>
-	<link>/</link>
+	<link>./../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Κουτσό</title>
-		<link>/2016/koutso/</link>
-					<comments>/2016/koutso/#comments</comments>
+		<link>./../../2016/koutso/index.html</link>
+					<comments>./../../2016/koutso/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Tue, 29 Mar 2016 01:38:55 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=518</guid>
+		<guid isPermaLink="false">./../../index.html?p=518</guid>
 
 					<description><![CDATA[<p>Φίλος είναι εκεί που γκρινιάζεις ελεύθερα. Γενικά μια γεροντίαση την είχα από πάντα. Βγαίνει σε διάφορες βερσιόν και χρώματα αλλά οι φίλοι μου ξέρουν ότι τον τελευταίο καιρό με ταλαιπωρεί πιο πολύ ένας πόνος που δεν με αφήνει, κυριολεκτικά, να σταθώ: ο πόνος στο αριστερό μου πόδι. Ξεκίνησε περίπου πέρισυ τέτοιο καιρό όταν έφυγα από [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2016/koutso/">Κουτσό</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/koutso/index.html">Κουτσό</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Φίλος είναι εκεί που γκρινιάζεις ελεύθερα. Γενικά μια γεροντίαση την είχα από πάντα. Βγαίνει σε διάφορες βερσιόν και χρώματα αλλά οι φίλοι μου ξέρουν ότι τον τελευταίο καιρό με ταλαιπωρεί πιο πολύ ένας πόνος που δεν με αφήνει, κυριολεκτικά, να σταθώ: ο πόνος στο αριστερό μου πόδι.<span id="more-518"></span><br />
 Ξεκίνησε περίπου πέρισυ τέτοιο καιρό όταν έφυγα από την παλιά μου δουλειά και πήγα μόνιμα στη Sociality. Στην αρχή είπα φταίει η καρέκλα, γιατί στο γραφείο μάς είχαν άνετους και ανατομικούς, ενώ στην Πανεπιστημίου έχουμε κάτι πλαστικά καρεκλάκια που τα γυρίζεις γύρω-γύρω για να σηκωθούν πέντε πόντους. Μετά ότι φταίει ότι δεν κάνω γυμναστική, &#8220;μέση θα είναι, να σηκώνεσαι να περπατάς&#8221;, μετά ότι λογικά είναι αυχενικό από τα κωλολάπτοπ γιατί έκανα έτσι πάνω-κάτω και πονούσα.<br />
 Μάρτιο άλλαξα καρέκλα, τον Αύγουστο πήγαμε στα Κύθηρα, τον Σεπτέμβριο στο Λονδίνο, τα Χριστούγεννα στο Βερολίνο κι εγώ συνέχιζα να πονάω &#8211; έμαθα μέχρι και πως να ζητάω παυσίπονα όταν είμαι στο εξωτερικό (παρατσέταμολ).<br />
 Μια μέρα έκανα το λάθος να πάρω μαζί μου στη δουλειά ένα χάπι από αυτά που μου είχαν ξεμείνει από το ταξίδι. Και ήταν λάθος γιατί μέσα σε μισή ώρα χάθηκε ολόκληρο το συννεφάκι που είχα καβαλήσει τόσο καιρό, ο πόνος έφυγε και ξαφνικά (sic) ένιωσα τελείως άδειος, χωρίς νόημα και στόχο, μιας και τώρα είχαν το ελεύθερο να βγουν στην επιφάνεια πιο ουσιαστικές φλεγμονές που κουβαλάω. Ο πόνος στο πόδι ήταν κι αυτός μια κάποια λύση.<br />
 Προσθήκη: Οι φίλοι μου ξέρουν &#8211; εκεί που πάω και γκρινιάζω &#8211; ότι μπορεί να δυσκολεύομαι, να αγχώνομαι, να θέλω λίγο χρόνο παραπάνω, αλλά βασικά το χω.  Εξάλλου δεν ζήτησα κι εγώ ξανά να τρέξω, γέρος άνθρωπος, να περπατήσω θέλω.</p>
-<p>The post <a rel="nofollow" href="/2016/koutso/">Κουτσό</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/koutso/index.html">Κουτσό</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/koutso/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2016/koutso/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Οι δικές μας συνήθειες</title>
-		<link>/2016/dikes-mas-sinithies/</link>
-					<comments>/2016/dikes-mas-sinithies/#respond</comments>
+		<link>./../../2016/dikes-mas-sinithies/index.html</link>
+					<comments>./../../2016/dikes-mas-sinithies/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 26 Mar 2016 15:50:19 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=523</guid>
+		<guid isPermaLink="false">./../../index.html?p=523</guid>
 
 					<description><![CDATA[<p>Υπάρχουν εμπειρίες που σε σχηματίζουν ως άνθρωπο πιο βίαια και πιο δυνατά από ό,τι η συνήθη καθημερινότητά σου.  Μία από αυτές τις εμπειρίες είναι το δρομολόγιο των 23.59 του ΚΤΕΛ Κατερίνης (στάση Κέντρο Υγείας) για Αθήνα (στάση Λιοσίων).</p>
-<p>The post <a rel="nofollow" href="/2016/dikes-mas-sinithies/">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/dikes-mas-sinithies/index.html">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p><strong>Υπάρχουν εμπειρίες που σε σχηματίζουν ως άνθρωπο</strong> πιο βίαια και πιο δυνατά από ό,τι η συνήθη καθημερινότητά σου.  Μία από αυτές τις εμπειρίες είναι το δρομολόγιο των 23.59 του ΚΤΕΛ Κατερίνης (στάση Κέντρο Υγείας) για Αθήνα (στάση Λιοσίων).<span id="more-523"></span> Είναι εμπειρία γιατί για τις πρώτες τέσσερις ώρες προσπαθείς να κοιμηθείς αλλά έχει τόση αφόρητη ζέστη από τον κλιματισμό και η Σοφιάννα έριξε την ιδέα να φτιάξει σε όλους από έναν καφέ στις εφτά το απόγευμα. Βέβαια, δεν φταίει η Σ., εσύ φταις που ξέρεις ότι σε πιάνει αλλά λες πάμε. Είναι, ακόμη, εμπειρία γιατί εκεί βαθιά μέσα στη νύχτα, στην βιομηχανικά κατασκευασμένη ερημιά με τους τεράστιους δρόμους, τα διόδια, τις μονάδες παραγωγής κεραμικών και τα logistics, εσύ προσέχεις ότι ο ρυθμός του Yr Love των Holy Other ταιριάζει με την εναλλαγή της διακεκομμένης γραμμής στο οδόστρωμα. Καμμένος, τελείως.<br />
 <iframe title="Holy Other - Yr love" width="580" height="435" src="https://www.youtube.com/embed/Kovqavfh5Lk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 <strong>Υπάρχουν καθημερινότητες που σε σχηματίζουν ως άνθρωπο</strong> πιο βαθιά και πιο ομοιόμορφα από ό,τι οι ακραίες στιγμές στη ζωή σου. Αυτό είναι ένα βασικό επιχείρημα που έχω χρησιμοποιήσει ξανά στο παρελθόν – το πάντα πρόσφατο παρελθόν. Ότι, δηλαδή, αυτό που μας κάνει να ερωτευόμαστε τη ζωή είναι οι καθημερινότητες που έχουμε ενσωματώσει μέσα σε αυτή. Αυτό που μας κάνει να αγαπάμε τους δικούς μας ανθρώπους είναι οι σταθερές που σημαίνουν για εμάς. Αυτές οι μικρές κατακτήσεις χτίζουν χαρακτήρα, όπως λέμε. Μας κάνουν αυτό που είμαστε και νιώθουμε την ιερή θέληση να τις τιμήσουμε και να τις διατηρήσουμε ακόμα και στην ακραία στιγμή που κάποια από αυτές τις σταθερές σταματά να είναι καθημερινότητα.<br />
 Υ.Γ.: Σήμερα παρατήρησα ότι στο μπροστινό κάθισμα του βαν που είχε αναλάβει τα διαδικαστικά της ημέρας υπήρχε ένα κουτί με χαρτομάντηλα. Φαίνεται ότι ούτε οι νεκροθάφτες δεν μπορούν να συνηθίσουν τον θάνατο, δεν χρειάζεται να το κάνουμε εμείς.</p>
-<p>The post <a rel="nofollow" href="/2016/dikes-mas-sinithies/">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/dikes-mas-sinithies/index.html">Οι δικές μας συνήθειες</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/dikes-mas-sinithies/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2016/dikes-mas-sinithies/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Γραντζουνιές</title>
-		<link>/2016/grantzounies/</link>
-					<comments>/2016/grantzounies/#respond</comments>
+		<link>./../../2016/grantzounies/index.html</link>
+					<comments>./../../2016/grantzounies/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Tue, 22 Mar 2016 21:17:10 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=509</guid>
+		<guid isPermaLink="false">./../../index.html?p=509</guid>
 
 					<description><![CDATA[<p>Κάθε φορά που θα έρχεσαι κοντά μου, θα μετράς τα δάχτυλα μου με τα δόντια, κάθε φορά ξανά, με δεδομένη την έκπληξη για κάτι το απροσδόκητο. Εγώ θα σου τα εξηγώ κι εσύ θα συνεχίσεις να με γεμίζεις με σημάδια.</p>
-<p>The post <a rel="nofollow" href="/2016/grantzounies/">Γραντζουνιές</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/grantzounies/index.html">Γραντζουνιές</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Όταν θα γίνεις γάτος,<br />
 θα σε τυλίγω σε μια γαλάζια κορδέλα ίσα για να σε βλέπω να παλεύεις μαζί της.<br />
@@ -100,57 +100,57 @@
 Θα στριφογυρίζεις όλη νύχτα στο σκοτάδι και θα ακούω μονάχα τη σιωπή και τη φασαρία σου.<br />
 Δεν θα μπορώ να σε καταλάβω, αλλά θα νιώθω πολύ οικεία στη σιωπή και τη φασαρία σου.<br />
 Όταν θα γίνεις γάτος.<br />
-<img loading="lazy" class="aligncenter wp-image-510 size-large" src="/wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-1024x770.jpg" alt="Ioanna Kastanioti - Scratches" width="1024" height="770" srcset="/wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-1024x770.jpg 1024w, /wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-300x226.jpg 300w, /wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-768x578.jpg 768w, /wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-1200x902.jpg 1200w, /wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches.jpg 1528w" sizes="(max-width: 1024px) 100vw, 1024px" /><br />
+<img loading="lazy" class="aligncenter wp-image-510 size-large" src="./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-1024x770.jpg" alt="Ioanna Kastanioti - Scratches" width="1024" height="770" srcset="./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-1024x770.jpg 1024w, ./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-300x226.jpg 300w, ./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-768x578.jpg 768w, ./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches-1200x902.jpg 1200w, ./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Scratches.jpg 1528w" sizes="(max-width: 1024px) 100vw, 1024px" /><br />
 <em>Η φωτογραφία είναι της Ιωάννας Καστανιώτη (<a href="https://ikastanioti.exposure.co/" target="_blank" rel="noopener noreferrer">link</a>), του πιο ενήλικου δωδεκάχρονου που έχω γνωρίσει ποτέ. </em><em>Τα χέρια είναι του αδερφού μου. Οι γρατζουνιές είναι του Σβούρα.</em></p>
-<p>The post <a rel="nofollow" href="/2016/grantzounies/">Γραντζουνιές</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/grantzounies/index.html">Γραντζουνιές</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/grantzounies/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2016/grantzounies/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Μπουγάδα</title>
-		<link>/2016/mpougada/</link>
-					<comments>/2016/mpougada/#respond</comments>
+		<link>./../../2016/mpougada/index.html</link>
+					<comments>./../../2016/mpougada/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Mon, 29 Feb 2016 17:25:52 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=503</guid>
+		<guid isPermaLink="false">./../../index.html?p=503</guid>
 
 					<description><![CDATA[<p>Είναι ωραίο να μιλάς με ανθρώπους που έχουν ένα προνόμιο πάνω σου, μια λευκή επιταγή με το όνομα σου. Να τους λες "εδώ είμαι, πάνω-κάτω ό,τι βλέπεις" και να κάνουν ό,τι καταλαβαίνουν.</p>
-<p>The post <a rel="nofollow" href="/2016/mpougada/">Μπουγάδα</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/mpougada/index.html">Μπουγάδα</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Σήμερα που κατέβαινα με τα πόδια στη δουλειά, εκεί στην πλατεία πέτυχα μια γιαγιά που φώναζε &#8220;Γεωργία! Γεωργία!&#8221; σε ένα μπαλκόνι, ξανά και ξανά, επαναληπτικά, σαν κουκουβάγια.<br />
 Αργότερα, κάπου στα μισά της Ιπποκράτους, ακούμπησα σε έναν τοίχο για να δέσω το κορδόνι μου. Λογικά θα λέρωσα το παλτό μου, αλλά ποιος νοιάζεται, εγώ να μην πέσω ήθελα.<span id="more-503"></span><br />
 Είναι ωραίο να μιλάς με ανθρώπους που έχουν ένα προνόμιο πάνω σου, μια λευκή επιταγή με το όνομα σου. Να τους λες &#8220;εδώ είμαι, πάνω-κάτω ό,τι βλέπεις&#8221; και να κάνουν ό,τι καταλαβαίνουν.<br />
-<img loading="lazy" class="aligncenter size-large wp-image-505" src="/wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-819x1024.jpg" alt="Ioanna Kastanioti Mpougada" width="819" height="1024" srcset="/wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-819x1024.jpg 819w, /wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-240x300.jpg 240w, /wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-768x960.jpg 768w, /wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada.jpg 960w" sizes="(max-width: 819px) 100vw, 819px" /><br />
+<img loading="lazy" class="aligncenter size-large wp-image-505" src="./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-819x1024.jpg" alt="Ioanna Kastanioti Mpougada" width="819" height="1024" srcset="./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-819x1024.jpg 819w, ./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-240x300.jpg 240w, ./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada-768x960.jpg 768w, ./../../wp-content/uploads/2016/02/Ioanna-Kastanioti-Mpougada.jpg 960w" sizes="(max-width: 819px) 100vw, 819px" /><br />
 &#8211; Θα βρέξει.<br />
 &#8211; Καιρό είχε.<br />
 <em>Η φωτογραφία είναι της Ιωάννας Καστανιώτη (<a href="https://ikastanioti.exposure.co/" target="_blank" rel="noopener noreferrer">link</a>), του πιο ενήλικου δωδεκάχρονου που έχω γνωρίσει ποτέ.</em></p>
-<p>The post <a rel="nofollow" href="/2016/mpougada/">Μπουγάδα</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2016/mpougada/index.html">Μπουγάδα</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/mpougada/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2016/mpougada/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Κάθε ελεύθερος άνθρωπος;</title>
-		<link>/2015/kathe-eleftheros-anthropos/</link>
-					<comments>/2015/kathe-eleftheros-anthropos/#respond</comments>
+		<link>./../../2015/kathe-eleftheros-anthropos/index.html</link>
+					<comments>./../../2015/kathe-eleftheros-anthropos/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 26 Dec 2015 13:20:26 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
 		<category><![CDATA[Μεσολόγγι]]></category>
-		<guid isPermaLink="false">/?p=487</guid>
+		<guid isPermaLink="false">./../../index.html?p=487</guid>
 
 					<description><![CDATA[<p>Από σήμερα, πρέπει το παγκόσμιο σύμβολο της ελευθερίας του ανθρώπου να δηλώνει ότι διαφωνεί με την ίση μεταχείριση των πολιτών απέναντι στα ανθρώπινα δικαιώματα. </p>
-<p>The post <a rel="nofollow" href="/2015/kathe-eleftheros-anthropos/">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/kathe-eleftheros-anthropos/index.html">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Με μεγάλη λύπη και έκπληξη ενημερωθήκαμε ότι στο τελευταίο Δημοτικό Συμβούλιο του Δήμου Ι.Π. Μεσολογγίου εγκρίθηκε κατά πλειοψηφία ένα ψήφισμα διαμαρτυρίας που κατέθεσε ο χρυσαυγίτης δημ. σύμβουλος Δημήτρης Μακρής κατά του συμφώνου συμβίωσης. Είναι απορίας άξιο το πώς ένα τόσο εχθρικό και ντροπιαστικό κείμενο, με αναφορές σε <strong>&#8220;κίναιδους&#8221;</strong> και στην <strong>&#8220;</strong><strong>Νέα Τάξη Πραγμάτων&#8221;</strong> κατάφερε να εγκριθεί από το Δημοτικό Συμβούλιο και να αποτελέσει την επίσημη έκφραση της πόλης μας για το ζήτημα.<span id="more-487"></span><br />
 Η αρχική μας αντίδραση ήταν κάπως έντονη και θα ήταν δύσκολο να την μεταφέρουμε σε γραπτό λόγο. Για αυτό το λόγο σκεφτήκαμε α) να προσπαθήσουμε να αναλύσουμε το ψήφισμα που κατατέθηκε και β) να καταθέσουμε τις δικές μας προτάσεις σχετικά με το ζήτημα. <i>Ακολουθεί το κείμενο του ψηφίσματος, η μορφοποίηση δική μας.</i><br />
@@ -167,52 +167,52 @@
 Από σήμερα, όμως, ως δημότες Μεσολογγίου πρέπει να δηλώνουμε πως αρνούμαστε ο ένας σύντροφος να παίρνει ιατρικές αποφάσεις για τον άλλον σύντροφο, πως είναι ανεπίτρεπτο να διεκδικούν την κοινά αποκτηθείσα περιουσία σε περίπτωση που ο ένας από τους δύο εκλείψει, πως είναι ανήκουστο να μπορεί η μία σύντροφος να ασφαλίζει την δική της σύντροφό, κ.ο.κ.<br />
 Αλλά κυρίως, πρέπει από σήμερα, <strong>το παγκόσμιο σύμβολο της ελευθερίας</strong> <strong>του ανθρώπου</strong> να δηλώνει επίσημα ότι διαφωνεί με την ίση μεταχείριση των πολιτών απέναντι στα ανθρώπινα δικαιώματα. Αυτό είναι πιο δύσκολο να το εξηγήσεις στα παιδιά σου, από το γεγονός ότι μπορεί δυο άντρες να αγαπιούνται και να θέλουν να φροντίζουν για πάντα ο ένας τον άλλον.<br />
 Πανάθεμά μας, χρονιάρες μέρες.</p>
-<p>The post <a rel="nofollow" href="/2015/kathe-eleftheros-anthropos/">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/kathe-eleftheros-anthropos/index.html">Κάθε ελεύθερος άνθρωπος;</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/kathe-eleftheros-anthropos/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2015/kathe-eleftheros-anthropos/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι</title>
-		<link>/2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/</link>
-					<comments>/2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/#respond</comments>
+		<link>./../../2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/index.html</link>
+					<comments>./../../2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 14 Nov 2015 20:46:39 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=472</guid>
+		<guid isPermaLink="false">./../../index.html?p=472</guid>
 
 					<description><![CDATA[<p>Στον ύπνο μου βλέπω ότι σηκώνομαι τη νύχτα για νερό, μία από τις μεγαλύτερες απολαύσεις μου ούτε ξέρω από πότε, αυτή η φοβερή αίσθηση ότι ξεδιψάς και καθαρίζει το στόμα σου.</p>
-<p>The post <a rel="nofollow" href="/2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/">Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/index.html">Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Ένα από τα πιο γνωστά προβλήματα με τα όνειρα είναι ότι τα περισσότερα από αυτά τα ξεχνάμε λίγη ώρα αφότου ξυπνήσουμε. Ίσως θα είχε πλάκα, κάποια στιγμή, να γράφαμε μια &#8220;Ωδή στα όνειρα που κάνεις δεν θυμάται πια&#8221;. Ωστόσο, υπάρχουν όνειρα ή εφιάλτες που τους θυμάσαι χρόνια ολόκληρα αφότου τα βρήκες μπροστά σου την πρώτη φορά.<span id="more-472"></span><br />
-Στα όνειρα μου, συχνά πυκνά, βλέπω ότι τρέχω στους δρόμους στο Μεσολόγγι, συνήθως νύχτα και μετά από βροχή. Μάλιστα πρέπει να είμαι <a href="/2015/serafim/">σκύλος</a> ή κάτι τέτοιο, έτσι καταλαβαίνω την κίνηση. Πιθανώς να είναι κατάλοιπο από τον καιρό που έβγαινα απόγευμα χειμώνα με το ποδήλατο, ποιος ξέρει.<br />
+Στα όνειρα μου, συχνά πυκνά, βλέπω ότι τρέχω στους δρόμους στο Μεσολόγγι, συνήθως νύχτα και μετά από βροχή. Μάλιστα πρέπει να είμαι <a href="./../../2015/serafim/index.html">σκύλος</a> ή κάτι τέτοιο, έτσι καταλαβαίνω την κίνηση. Πιθανώς να είναι κατάλοιπο από τον καιρό που έβγαινα απόγευμα χειμώνα με το ποδήλατο, ποιος ξέρει.<br />
 Στον ύπνο μου βλέπω ότι σηκώνομαι τη νύχτα για νερό, μία από τις μεγαλύτερες απολαύσεις μου ούτε ξέρω από πότε, αυτή η φοβερή αίσθηση ότι ξεδιψάς και καθαρίζει το στόμα σου.<br />
-Καμιά φορά βλέπω ότι προλαβαίνω το ξυπνητήρι πριν χτυπήσει και <a href="/2015/pio-poli/">μετά</a> παίρνω αγκαλιά το μαξιλάρι μέχρι όντως να χτυπήσει στον πραγματικό κόσμο.<br />
+Καμιά φορά βλέπω ότι προλαβαίνω το ξυπνητήρι πριν χτυπήσει και <a href="./../../2015/pio-poli/index.html">μετά</a> παίρνω αγκαλιά το μαξιλάρι μέχρι όντως να χτυπήσει στον πραγματικό κόσμο.<br />
 Στα όνειρα μου νυστάζω, διψάω, χουζουρεύω. Στον πραγματικό κόσμο μου λείπεις και δουλεύω.</p>
-<p>The post <a rel="nofollow" href="/2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/">Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/index.html">Στον ύπνο μου βλέπω όνειρα ότι κοιμάμαι</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2015/ston-ipno-mou-vlepo-oneira-oti-koimamai/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Σεραφείμ</title>
-		<link>/2015/serafim/</link>
-					<comments>/2015/serafim/#comments</comments>
+		<link>./../../2015/serafim/index.html</link>
+					<comments>./../../2015/serafim/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Wed, 04 Nov 2015 02:01:02 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=459</guid>
+		<guid isPermaLink="false">./../../index.html?p=459</guid>
 
 					<description><![CDATA[<p>Πριν μερικές εβδομάδες, όπως λένε και στις σειρές, I met someone. Είχα ανέβει στο Αίθριο στο Μαρούσι για ένα ραντεβού. Βασικά ήταν τόσο εμπειρία αυτή η γνωριμία που το σημείωσα αμέσως, μισό να το βρω. Στο γκαζόν μπροστά στην καφετέρια που ήταν το ραντεβού μου είχαν δέσει έναν σκυλάκο, όχι πολύ μικρό. Μιας και θα [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/2015/serafim/">Σεραφείμ</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/serafim/index.html">Σεραφείμ</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Πριν μερικές εβδομάδες, όπως λένε και στις σειρές, I met someone. Είχα ανέβει στο Αίθριο στο Μαρούσι για ένα ραντεβού. Βασικά ήταν τόσο εμπειρία αυτή η γνωριμία που το σημείωσα αμέσως, μισό να το βρω.<span id="more-459"></span><br />
 Στο γκαζόν μπροστά στην καφετέρια που ήταν το ραντεβού μου είχαν δέσει έναν σκυλάκο, όχι πολύ μικρό. Μιας και θα περίμενα λίγη ώρα ακόμα, πήγα κοντά του να δω τί παίζει.<br />
@@ -223,26 +223,26 @@
 <p lang="el" dir="ltr">Να βλέπεις το ηλιοβασίλεμα από το σταθμό στη Νεραντζιώτισσα και να σκέφτεσαι πώς θα λέγανε τον σκύλο σου. Αυτές είναι οι ανάγκες του σήμερα.</p>
 <p>&mdash; Spyros Tzortzis <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f534.png" alt="🔴" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@sptzortzis) <a href="https://twitter.com/sptzortzis/status/655047214629302272?ref_src=twsrc%5Etfw">October 16, 2015</a></p></blockquote>
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>The post <a rel="nofollow" href="/2015/serafim/">Σεραφείμ</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/serafim/index.html">Σεραφείμ</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/serafim/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2015/serafim/feed/index.html</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Στο σχολείο</title>
-		<link>/2015/sto-sxoleio/</link>
-					<comments>/2015/sto-sxoleio/#respond</comments>
+		<link>./../../2015/sto-sxoleio/index.html</link>
+					<comments>./../../2015/sto-sxoleio/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Fri, 23 Oct 2015 01:40:20 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=451</guid>
+		<guid isPermaLink="false">./../../index.html?p=451</guid>
 
 					<description><![CDATA[<p>Και είναι μεγάλο κρίμα να θες και να μη βρίσκεις δάσκαλο.</p>
-<p>The post <a rel="nofollow" href="/2015/sto-sxoleio/">Στο σχολείο</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/sto-sxoleio/index.html">Στο σχολείο</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Έχω ανακαλύψει ότι έχω ανάγκη να τρώω ξύλο από ανθρώπους που εμπιστεύομαι να με βάλουν στη θέση μου. Και είναι μεγάλο κρίμα να θες και να μη βρίσκεις δάσκαλο.<br />
 Προσπαθώ να μπαίνω συνεχώς σε μια διαδικασία μάθησης που με εξασκεί στο να χαμηλώνω την αίσθηση ότι ξέρω και μπορώ τα πάντα.<span id="more-451"></span><br />
@@ -251,26 +251,26 @@
 Έχω μάθει να φιλιώνω με την διαφορετικότητα γιατί ο Άλλος είναι άριστος μέσα στην μοναδικότητά του.<br />
 Παρακολουθώ με ευλάβεια τις αδικίες και τις αβλεψίες, ακολουθώντας μεθοδικά την εις άτοπον απαγωγή για να φτιάξω τους κανόνες και τις εξαιρέσεις.<br />
 Μαθαίνω, τέλος, πολλά όταν δεν κάνω τίποτα.</p>
-<p>The post <a rel="nofollow" href="/2015/sto-sxoleio/">Στο σχολείο</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/sto-sxoleio/index.html">Στο σχολείο</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/sto-sxoleio/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2015/sto-sxoleio/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Σε αναζήτηση συχνότητας</title>
-		<link>/2015/se-anazitisi-sychnotitas/</link>
-					<comments>/2015/se-anazitisi-sychnotitas/#respond</comments>
+		<link>./../../2015/se-anazitisi-sychnotitas/index.html</link>
+					<comments>./../../2015/se-anazitisi-sychnotitas/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Mon, 19 Oct 2015 13:40:25 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=2585</guid>
+		<guid isPermaLink="false">./../../index.html?p=2585</guid>
 
 					<description><![CDATA[<p>Ποιο θα μπορούσε να ήταν το δικό μας όραμα για τα επόμενα πενήντα χρόνια; Θα μπορούσε, άραγε, να χτιστεί ξανά μια κοινότητα "φίλων του ραδιοφώνου" που με το μεράκι τους και με τον ενθουσιασμό του ερασιτέχνη να ανανεώσουν το πρόγραμμα και τις δραστηριότητες του σταθμού;</p>
-<p>The post <a rel="nofollow" href="/2015/se-anazitisi-sychnotitas/">Σε αναζήτηση συχνότητας</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/se-anazitisi-sychnotitas/index.html">Σε αναζήτηση συχνότητας</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Αν γυρνούσαμε λίγο πίσω στην ιστορία, θα μπορούσαμε να ψηλαφήσουμε τους λόγους για τους οποίους το ραδιόφωνο καθιερώθηκε ως μαζικό μέσο επικοινωνίας: <span id="more-2585"></span>Ήταν πιο γρήγορο και άμεσο από ότι οι εφημερίδες, αποτελούσε έναν δωρεάν (αν όχι τον μόνο) τρόπο να ακούσει κάνεις ηχογραφημένη μουσική και φυσικά, ήταν το μόνο μέσο που μπορούσε να σου κρατήσει συντροφιά με ζωντανές εκπομπές ακόμα και πολύ αργά μέσα στη νύχτα.Κατά μία έννοια, θα μπορούσαμε να είχαμε ήδη καταργήσει τα ραδιόφωνα μιας και η δωρεάν πρόσβαση στην τέχνη έχει γίνει πιο εύκολη από ποτέ, ενώ πλέον υπάρχει ακόμα και η τεχνική δυνατότητα για αναζήτηση τραγουδιών σύμφωνα με τις προτιμήσεις και τις συνήθειες του κάθε ακροατή ξεχωριστά. Οπότε, για ποιο λόγο να ανοίξει κανείς σήμερα το ραδιόφωνο;<br />
 Η δική μας οπτική περιλαμβάνει τα εξής:</p>
@@ -284,35 +284,35 @@
 Για όσους δεν γνωρίζουν, ο Σταθμός δεν είναι μια ιδιωτική επιχείρηση αλλά αποτελεί έκφραση και υλοποίηση του <strong>οράματος </strong>των Συλλόγου των ερασιτεχνών &#8220;Φίλων του Ραδιοφώνου&#8221;, ήδη από το μακρινό 1955. Ποιο θα μπορούσε να ήταν <strong>το δικό μας όραμα </strong>για τα επόμενα πενήντα χρόνια; Θα μπορούσε, άραγε, να χτιστεί ξανά μια <strong>κοινότητα </strong>&#8220;φίλων του ραδιοφώνου&#8221; που με το μεράκι τους και με τον ενθουσιασμό του <strong>ερασιτέχνη </strong>να ανανεώσουν το πρόγραμμα και τις δραστηριότητες του σταθμού; Θα μπορούσε να μετατραπεί σε έναν <strong>φάρο </strong>για δεκάδες/εκατοντάδες Μεσολογγίτες που <strong>ζούμε </strong>στην Αθήνα, την Θεσσαλονίκη και τόσα άλλα μέρη στην Ελλάδα και το εξωτερικό;Θα μπορούσε ο σταθμός να πατήσει πάνω στην μεγάλη του <strong>αναγνωρισιμότητα </strong>και να μπει στην πρώτη γραμμή της <strong>προώθησης </strong>των τοπικών επιχειρήσεων, τουλάχιστον μέχρι την γεωγραφική κάλυψη του σήματος του;<br />
 Πολλά και ενδιαφέροντα τα ερωτήματα, όμως η εκπομπή μας έφτασε στο τέλος της. Σας ευχαριστούμε για τον χρόνο σας, ανανεώνουμε το ραντεβού μας για κάποιο επόμενο τεύχος μας <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
 Δημοσίευση στο περιοδικό των <a href="https://saltsinistas.gr/" target="_blank" rel="noopener noreferrer">Saltsinistas</a></p>
-<p>The post <a rel="nofollow" href="/2015/se-anazitisi-sychnotitas/">Σε αναζήτηση συχνότητας</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/se-anazitisi-sychnotitas/index.html">Σε αναζήτηση συχνότητας</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/se-anazitisi-sychnotitas/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2015/se-anazitisi-sychnotitas/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Πιο πολύ</title>
-		<link>/2015/pio-poli/</link>
-					<comments>/2015/pio-poli/#respond</comments>
+		<link>./../../2015/pio-poli/index.html</link>
+					<comments>./../../2015/pio-poli/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sun, 13 Sep 2015 23:20:39 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
-		<guid isPermaLink="false">/?p=435</guid>
+		<guid isPermaLink="false">./../../index.html?p=435</guid>
 
 					<description><![CDATA[<p>Όταν είμαι χορτάτος, ξεκούραστος, φρέσκος, καθαρός. Όταν αδειάζει το κεφάλι μου, το τελευταίο πράγμα που μένει μέσα είσαι εσύ.</p>
-<p>The post <a rel="nofollow" href="/2015/pio-poli/">Πιο πολύ</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/pio-poli/index.html">Πιο πολύ</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Πιο πολύ σε αναζητώ εκεί που δεν το περιμένω.<br />
 Όταν δεν μπορώ να είμαι αγρίμι κι ησυχάζω.<br />
 Όταν είμαι χορτάτος, ξεκούραστος, φρέσκος, καθαρός. Όταν δεν κλείνω τα μάτια για να ξεφύγω αλλά τα αφήνω από τη ζήλια και την προσμονή να σε δω.<br />
 Όταν αδειάζει το κεφάλι μου, το τελευταίο πράγμα που μένει μέσα είσαι εσύ.</p>
-<p>The post <a rel="nofollow" href="/2015/pio-poli/">Πιο πολύ</a> appeared first on <a rel="nofollow" href="/">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="./../../2015/pio-poli/index.html">Πιο πολύ</a> appeared first on <a rel="nofollow" href="./../../index.html">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/pio-poli/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../2015/pio-poli/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -326,7 +326,7 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 Object Caching 106/108 objects using disk
 Page Caching using disk: enhanced 
 Lazy Loading (feed)
-Database Caching using memcached
+Database Caching 4/48 queries in 0.020 seconds using memcached
 
-Served from: spytzo.gr @ 2021-03-03 20:13:37 by W3 Total Cache
+Served from: spytzo.gr @ 2021-03-03 21:25:11 by W3 Total Cache
 -->
