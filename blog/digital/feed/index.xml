@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Digital &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://spytzo-static-page.pages.dev/blog/digital/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spytzo-static-page.pages.dev/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Fri, 22 Jan 2021 10:38:07 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>https://spytzo-static-page.pages.dev/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Digital &#8211; Σπύρος Τζώρτζης</title>
-	<link>./../../../index.html</link>
+	<link>https://spytzo-static-page.pages.dev/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Γιατί είχα χέρια καθαρά</title>
-		<link>./../../../2020/giati-eixa-xeria-kathara/index.html</link>
-					<comments>./../../../2020/giati-eixa-xeria-kathara/index.html#respond</comments>
+		<link>https://spytzo-static-page.pages.dev/2020/giati-eixa-xeria-kathara/</link>
+					<comments>https://spytzo-static-page.pages.dev/2020/giati-eixa-xeria-kathara/#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Fri, 22 May 2020 21:57:02 +0000</pubDate>
 				<category><![CDATA[Digital]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=3006</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=3006</guid>
 
 					<description><![CDATA[<p>Χρειάστηκε πολλή προσπάθεια (ΟΚ, καθόλου) ώστε να υποχωρήσω και τελικά να χρησιμοποιήσω έναν τόσο clickbait τίτλο. Από την άλλη, εδώ είναι το ίντερνετ και αυτά επιτρέπονται, σωστά; Πάμε στην ουσία. Γράφω εδώ αυτό το μικρό σημείωμα για να μοιραστώ μαζί σας ένα καινούργιο business trend που φαίνεται ότι κερδίζει έδαφος πάρα πολύ γρήγορα, κι αυτό [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../../../2020/giati-eixa-xeria-kathara/index.html">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2020/giati-eixa-xeria-kathara/">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Χρειάστηκε πολλή προσπάθεια (ΟΚ, καθόλου) ώστε να υποχωρήσω και τελικά να χρησιμοποιήσω έναν τόσο clickbait τίτλο. Από την άλλη, εδώ είναι το ίντερνετ και αυτά επιτρέπονται, σωστά;</p>
@@ -85,7 +85,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg" alt="" class="wp-image-3009" srcset="./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg 1024w, ./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-300x225.jpg 300w, ./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-768x576.jpg 768w, ./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1536x1152.jpg 1536w, ./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-2048x1536.jpg 2048w, ./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1200x900.jpg 1200w, ./../../../wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1980x1485.jpg 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg" alt="" class="wp-image-3009" srcset="https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1024x768.jpg 1024w, https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-300x225.jpg 300w, https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-768x576.jpg 768w, https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1536x1152.jpg 1536w, https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-2048x1536.jpg 2048w, https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1200x900.jpg 1200w, https://spytzo-static-page.pages.dev/wp-content/uploads/2020/05/troy-bridges-SuzmwVqHJdo-unsplash-1980x1485.jpg 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -98,27 +98,27 @@
 
 
 <p>Στον αντίποδα, κινήσεις όπως είναι ο GDPR ή το California Consumer Privacy Act είναι τέτοια φρένα. Οι Επιτροπές Ανταγωνισμού των ΗΠΑ, της Γαλλίας και της Γερμανίας είναι τέτοια αναχώματα και τα έχουμε ανάγκη.</p>
-<p>The post <a rel="nofollow" href="./../../../2020/giati-eixa-xeria-kathara/index.html">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2020/giati-eixa-xeria-kathara/">Γιατί είχα χέρια καθαρά</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2020/giati-eixa-xeria-kathara/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://spytzo-static-page.pages.dev/2020/giati-eixa-xeria-kathara/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</title>
-		<link>./../../../2014/skills-kai-endorsements-sto-linkedin/index.html</link>
-					<comments>./../../../2014/skills-kai-endorsements-sto-linkedin/index.html#respond</comments>
+		<link>https://spytzo-static-page.pages.dev/2014/skills-kai-endorsements-sto-linkedin/</link>
+					<comments>https://spytzo-static-page.pages.dev/2014/skills-kai-endorsements-sto-linkedin/#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sun, 02 Feb 2014 09:31:45 +0000</pubDate>
 				<category><![CDATA[Digital]]></category>
 		<category><![CDATA[LinkedIn]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=54</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=54</guid>
 
 					<description><![CDATA[<p>Το σωστό στήσιμο ενός προφίλ στο LinkedIn είναι αρκετά σκοτεινή υπόθεση. Ειδικά σε αγορές όπως η Ελληνική, όπου η διείσδυση του μέσου είναι ακόμα σε χαμηλό επίπεδο, υπάρχουν ασάφειες και τυφλά σημεία που δεν είμαι σίγουρος αν μπορούν να καλυφθούν από τα διάφορα best practices guides που κυκλοφορούν κατά καιρούς&#160;(ακόμα και από αυτό που διαβάζετε [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../../../2014/skills-kai-endorsements-sto-linkedin/index.html">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2014/skills-kai-endorsements-sto-linkedin/">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Το σωστό στήσιμο ενός προφίλ στο LinkedIn είναι αρκετά σκοτεινή υπόθεση. Ειδικά σε αγορές όπως η Ελληνική, όπου η διείσδυση του μέσου είναι ακόμα σε χαμηλό επίπεδο, υπάρχουν ασάφειες και τυφλά σημεία που δεν είμαι σίγουρος αν μπορούν να καλυφθούν από τα διάφορα best practices guides που κυκλοφορούν κατά καιρούς&nbsp;(ακόμα και από αυτό που διαβάζετε τώρα!).<br>Μία από τις πονεμένες ιστορίες της πονεμένης ιστορίας που ονομάζεται LinkedIn είναι και η διαχείριση των endorsements, δηλαδή των δεξιοτήτων και των γνώσεων που άλλοι χρήστες του δικτύου έχουν αναγνωρίσει στο πρόσωπό μας. Τα παράπονά μας μπορούν να συνοψιστούν ως εξής:</p>
@@ -137,7 +137,7 @@
 
 
 
-<div class="wp-block-image wp-image-61"><figure class="aligncenter"><img loading="lazy" width="731" height="726" src="./../../../wp-content/uploads/2014/02/spytzo_linkedin2.png" alt="LinkedIn Endorsement" class="wp-image-61" srcset="./../../../wp-content/uploads/2014/02/spytzo_linkedin2.png 731w, ./../../../wp-content/uploads/2014/02/spytzo_linkedin2-300x298.png 300w, ./../../../wp-content/uploads/2014/02/spytzo_linkedin2-150x150.png 150w" sizes="(max-width: 731px) 100vw, 731px" /><figcaption>Η αρχική εικόνα των endorsement μου πριν την εκκαθάριση</figcaption></figure></div>
+<div class="wp-block-image wp-image-61"><figure class="aligncenter"><img loading="lazy" width="731" height="726" src="https://spytzo-static-page.pages.dev/wp-content/uploads/2014/02/spytzo_linkedin2.png" alt="LinkedIn Endorsement" class="wp-image-61" srcset="https://spytzo-static-page.pages.dev/wp-content/uploads/2014/02/spytzo_linkedin2.png 731w, https://spytzo-static-page.pages.dev/wp-content/uploads/2014/02/spytzo_linkedin2-300x298.png 300w, https://spytzo-static-page.pages.dev/wp-content/uploads/2014/02/spytzo_linkedin2-150x150.png 150w" sizes="(max-width: 731px) 100vw, 731px" /><figcaption>Η αρχική εικόνα των endorsement μου πριν την εκκαθάριση</figcaption></figure></div>
 
 
 
@@ -149,11 +149,11 @@
 
 
 
-<p>Μπορείτε εδώ <a href="./../../../linkedin/index.html">να δείτε το προφίλ μου στο LinkedIn</a> μετά και από όλες τις αλλαγές που περιγράψαμε. Επιπρόσθετα, σκέφτομαι να προσθέσω μερικά νέα skills από τη <a title="The 25 Hottest Skills That Got People Hired in 2013" href="http://blog.linkedin.com/2013/12/18/the-25-hottest-skills-that-got-people-hired-in-2013/">hot λίστα του LinkedIn για το 2013</a>. &#8220;Business Intelligence&#8221;; Please. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-<p>The post <a rel="nofollow" href="./../../../2014/skills-kai-endorsements-sto-linkedin/index.html">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>Μπορείτε εδώ <a href="https://spytzo-static-page.pages.dev/linkedin/">να δείτε το προφίλ μου στο LinkedIn</a> μετά και από όλες τις αλλαγές που περιγράψαμε. Επιπρόσθετα, σκέφτομαι να προσθέσω μερικά νέα skills από τη <a title="The 25 Hottest Skills That Got People Hired in 2013" href="http://blog.linkedin.com/2013/12/18/the-25-hottest-skills-that-got-people-hired-in-2013/">hot λίστα του LinkedIn για το 2013</a>. &#8220;Business Intelligence&#8221;; Please. <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2014/skills-kai-endorsements-sto-linkedin/">Γιατί αποφάσισα να διαγράψω skills και endorsements στο LinkedIn</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2014/skills-kai-endorsements-sto-linkedin/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://spytzo-static-page.pages.dev/2014/skills-kai-endorsements-sto-linkedin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Μια φράση klein blue	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://spytzo-static-page.pages.dev/2015/mia-frasi-klein-blue/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spytzo-static-page.pages.dev/2015/mia-frasi-klein-blue/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Από: Themis Savvidis		</title>
-		<link>./../index.html#comment-4</link>
+		<link>https://spytzo-static-page.pages.dev/2015/mia-frasi-klein-blue/#comment-4</link>
 
 		<dc:creator><![CDATA[Themis Savvidis]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2015 17:48:00 +0000</pubDate>
-		<guid isPermaLink="false">./../../../index.html?p=405#comment-4</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=405#comment-4</guid>
 
 					<description><![CDATA[Μάλλον κανείς μας δεν το βλέπει σωστά παρά μόνο ο Klein.]]></description>
 			<content:encoded><![CDATA[<p>Μάλλον κανείς μας δεν το βλέπει σωστά παρά μόνο ο Klein.</p>

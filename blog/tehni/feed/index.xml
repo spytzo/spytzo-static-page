@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Τέχνη &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://spytzo-static-page.pages.dev/blog/tehni/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spytzo-static-page.pages.dev/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Thu, 26 Nov 2020 08:56:34 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>https://spytzo-static-page.pages.dev/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Τέχνη &#8211; Σπύρος Τζώρτζης</title>
-	<link>./../../../index.html</link>
+	<link>https://spytzo-static-page.pages.dev/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</title>
-		<link>./../../../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html</link>
-					<comments>./../../../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html#comments</comments>
+		<link>https://spytzo-static-page.pages.dev/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/</link>
+					<comments>https://spytzo-static-page.pages.dev/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/#comments</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sun, 12 Jun 2016 00:32:31 +0000</pubDate>
 				<category><![CDATA[Τέχνη]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=547</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=547</guid>
 
 					<description><![CDATA[<p>Είναι το Mr. Robot είναι μία σχιζοφρενική σειρά για την τεχνολογία; Ή μία τεχνολογική σειρά για τη σχιζοφρένεια;</p>
-<p>The post <a rel="nofollow" href="./../../../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Στις 13 Ιουλίου αναμένεται το επεισόδιο 2.1 της τηλεοπτικής σειράς Mr. Robot. Το πρώτο επεισόδιο της σειράς έκανε την εμφάνισή του τον περασμένο Ιούνιο και γρήγορα συγκέντρωσε το ενδιαφέρον κοινού και κριτικών, και όχι άδικα. Πρόκειται για μια σειρά για την <strong>τεχνολογία</strong> και την <strong>διπολικότητα</strong> σε όλες της τις μορφές.<br />
 <span id="more-547"></span><br />
@@ -46,12 +46,12 @@
 <p style="text-align: center;"><strong>Ακολουθούν spoiler για όλη την πρώτη σεζόν!</strong></p>
 <p>Η σειρά αποτελείται, κατά την άποψή μου, από <strong>δύο σετ επεισοδίων,</strong> από το πρώτο μέχρι το πέμπτο επεισόδιο και από το έκτο μέχρι και το τελευταίο. Αυτός ο διαχωρισμός φαίνεται να είναι απόλυτα συνειδητός, ένα συμπέρασμα στο οποίο φτάνει κανείς λίγο πριν το φινάλε. Κατά κάποιον τρόπο, τα πρώτα πέντε επεισόδια είναι σχεδιασμένα να τραβήξουν το ενδιαφέρον του κοινού με πλούσιες αναφορές στην τεχνολογία και την ποπ κουλτούρα, ενώ το δεύτερο μισό έχει αναλάβει τη βαριά δουλειά της σκηνοθεσίας, της εξέλιξη της ιστορίας και των χαρακτήρων, τα κρίσιμα σημεία και τα cliffhangers. Όπως θα δούμε και παρακάτω, ολόκληρη τη σειρά διατρέχει μια αίσθηση διπολικότητας η οποίο χρησιμοποιείται με δημιουργικό τρόπο για το χτίσιμο και την εξέλιξη της ιστορίας.</p>
 <h2>Το Mr. Robot και η τεχνολογία</h2>
-<p><img loading="lazy" class="aligncenter wp-image-549 size-full" src="./../../../wp-content/uploads/2016/06/mr_robot_technology.jpg" alt="mr_robot_technology" width="700" height="467" srcset="./../../../wp-content/uploads/2016/06/mr_robot_technology.jpg 700w, ./../../../wp-content/uploads/2016/06/mr_robot_technology-300x200.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /><br />
+<p><img loading="lazy" class="aligncenter wp-image-549 size-full" src="https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_technology.jpg" alt="mr_robot_technology" width="700" height="467" srcset="https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_technology.jpg 700w, https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_technology-300x200.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /><br />
 Καταρχάς, η σειρά από την αρχή μέχρι το τέλος είναι <strong>το πανηγύρι του geek, </strong>του χάκερ, του πληροφορικάριου αλλά και οποιουδήποτε βλέπει κριτικά την εξέλιξη της τεχνολογίας, του διαδικτύου και της ασφάλειας των προσωπικών δεδομένων.<br />
 Και είναι τόσο μεγάλη αυτή η απόλαυση γιατί επιτέλους η τεχνολογία αποτυπώνεται και παρουσιάζεται <strong>με ακρίβεια και ειλικρίνεια</strong> αποφεύγοντας δια ροπάλου κομπιουτερίστικες εξυπνάδες όπως εκείνα τα χολιγουντιανά ανέκδοτα όπου ένας Ρώσος σκακιστής, ένας Ιάπωνας φοιτητής και ένας Αμερικανός gamer χακάρουν το Πεντάγωνο μέρα μεσημέρι απλώς και μόνο γιατί χρησιμοποιούν περισσότερες οθόνες από έναν χρηματιστή της Wall Street.<br />
 Στο Mr. Robot υπάρχουν κωδικοί που δεν σπάνε γιατί είναι ισχυρά κρυπτογραφημένοι (λογικό), οι χάκερ χρησιμοποιούν <strong>Linux</strong> (εξίσου λογικό) και ο Steve Jobs εκμεταλλεύεται παιδική εργασία για να χτίσει την αυτοκρατορία της Apple. Φυσικά, από τη σειρά δεν λείπουν μια σειρά από αναμενόμενα κλισέ τα οποία ικανοποιούν τους geek χωρίς όμως να ξενίζουν το “ευρύ κοινό”.</p>
 <h2>Ο Elliot και η σκηνοθεσία</h2>
-<p><img loading="lazy" class="aligncenter size-full wp-image-550" src="./../../../wp-content/uploads/2016/06/mr_robot_cinematography.jpg" alt="mr_robot_cinematography" width="677" height="381" srcset="./../../../wp-content/uploads/2016/06/mr_robot_cinematography.jpg 677w, ./../../../wp-content/uploads/2016/06/mr_robot_cinematography-300x169.jpg 300w" sizes="(max-width: 677px) 100vw, 677px" /><br />
+<p><img loading="lazy" class="aligncenter size-full wp-image-550" src="https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_cinematography.jpg" alt="mr_robot_cinematography" width="677" height="381" srcset="https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_cinematography.jpg 677w, https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_cinematography-300x169.jpg 300w" sizes="(max-width: 677px) 100vw, 677px" /><br />
 Μία σειρά που ζει και αναπνέει για την απόκρυψη και την αποκάλυψη της πληροφορίας δεν θα μπορούσε παρά να παίζει τα καλύτερα χαρτιά της στην ικανότητά της <strong>να κρύβει πράγματα από τον θεατή.</strong> Όλες οι ενδείξεις που χρειάζεσαι για να ακολουθήσεις το σκοτεινό μονοπάτι στο μυαλό του Elliot βρίσκονται σε κοινή θέα, αλλά δεν γίνονται ορατές παρά μόνο στο τέλος &#8211; όπως συμβαίνει συνήθως και στην πραγματική ζωή.<br />
 Ήδη από τις πρώτες σκηνές του πρώτου επεισοδίου ο Elliot έχει γκρεμίσει τον λεγόμενο<strong> “τέταρτο τοίχο”</strong> που διαχωρίζει τον ήρωα στην οθόνη από εμάς τους θεατές, μια τακτική που εκμεταλλεύτηκε με πολύ όμορφο τρόπο και ο Frank Underwood στο <em>House of Cards</em>. Άξιο παρατήρησης είναι και το πότε οι υπόλοιποι χαρακτήρες αλληλεπιδρούν με τον Elliot και πότε όχι και τί μπορεί να σημαίνει αυτό για την προσωπικότητα και τον ψυχισμό του.<br />
 Είναι ενδιαφέρον, επίσης, ότι στο κινηματογραφικό πλάνο δεν υπάρχει ποτέ κάτι το περιττό και ο σκηνοθέτης σε κατευθύνει να εστιάσεις κάθε φορά ακριβώς εκεί που πρέπει, χρησιμοποιώντας μεταξύ άλλων <strong>ακραία καδραρίσματα</strong> όπως μπορείτε να δείτε εδώ:</p>
@@ -62,7 +62,7 @@
 <h2>Επί της θεωρίας</h2>
 <p>Είναι το Mr. Robot είναι μία σχιζοφρενική σειρά για την τεχνολογία ή μία τεχνολογική σειρά για τη σχιζοφρένεια; Μα και η ίδια η τεχνολογία μας δεν είναι το ίδιο διπολική, ικανή για το καλύτερο και για το χειρότερο;<br />
 Η σειρά αποτελεί σίγουρα μια κριτική στην σύγχρονο κόσμο, στο βαθιά θεμελιωμένο οικονομικό και κοινωνικό μας σύστημα όπου κυρίαρχος είναι πέρα από τον κάτοχο του κεφαλαίου καί ο κάτοχος της πληροφορίας. Το ερώτημά είναι, δεδομένου ότι η τεχνολογία είναι παντού γύρω μας, μπορούμε εμείς να καθορίσουμε την χρήση της ή είμαστε υποχείρια αυτών που την κατέχουν και την χειρίζονται, ακόμα και για καλό σκοπό;<br />
-<img loading="lazy" class="aligncenter size-full wp-image-551" src="./../../../wp-content/uploads/2016/06/mr_robot_fsociety.jpg" alt="mr_robot_fsociety" width="769" height="434" srcset="./../../../wp-content/uploads/2016/06/mr_robot_fsociety.jpg 769w, ./../../../wp-content/uploads/2016/06/mr_robot_fsociety-300x169.jpg 300w" sizes="(max-width: 769px) 100vw, 769px" /><br />
+<img loading="lazy" class="aligncenter size-full wp-image-551" src="https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_fsociety.jpg" alt="mr_robot_fsociety" width="769" height="434" srcset="https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_fsociety.jpg 769w, https://spytzo-static-page.pages.dev/wp-content/uploads/2016/06/mr_robot_fsociety-300x169.jpg 300w" sizes="(max-width: 769px) 100vw, 769px" /><br />
 Στη σειρά, η F-Society είναι αδιαμφισβήτητα οι <strong>Anonymous,</strong> η E-Corp φέρει το logo της διαβόητης <strong>Enron</strong> και ο Elliot ταξινομεί τα ευαίσθητα αρχεία του με ονόματα μουσικών δίσκων, μια πιθανή αναφορά στην <strong>Chelsea Manning</strong> που το 2010 παρέδωσε στο Wikileaks απόρρητες πληροφορίες για τον πόλεμο στο Ιράκ και το Αφγανιστάν σε ένα CD με τίτλο “Lady Gaga”.<br />
 Σε άλλα cultural references, εάν έχετε δει το <strong>Fight Club</strong> και σας γάμησε κι εσάς το μυαλό εκεί προς το τέλος, είναι πολύ πιθανό να λατρέψετε και το Mr. Robot. Δεν θα ήθελα να κάνω περισσότερα spoiler, απλώς να πούμε ότι οι αναφορές και οι ομοιότητες κλιμακώνονται ανερυθρίαστα τη στιγμή που ακούγεται η διασκευή σε πιάνο του “Where’s my mind” των Pixies, του τραγουδιού που συνοδεύει την τελευταία σκηνή του Fight Club.<br />
 Τέλος, υπάρχουν αρκετές αναφορές στο Eyes Wide Shut και γενικότερα στον <strong>Stanley Kubrick,</strong> με έναν τρόπο που αναγνωρίζει τη ματιά και την προσέγγιση του μεγάλου σκηνοθέτη και μάλιστα, σε μερικά σημεία, επιχειρεί να την προωθήσει σε νέα μονοπάτια.</p>
@@ -82,28 +82,28 @@
 <li>‘Mr. Robot’ Finale: It’s All In Your Head. Or Is It? &#8211; <a href="https://web.archive.org/web/20160804052722/http://thinkprogress.org/culture/2015/09/03/3698272/mr-robot-finale-its-all-in-your-head-or-is-it/">http://thinkprogress.org/culture/2015/09/03/3698272/mr-robot-finale-its-all-in-your-head-or-is-it/</a></li>
 <li>Program or Be Programmed &#8211; Rushkoff &#8211; <a href="http://www.rushkoff.com/books/program-or-be-programmed/">http://www.rushkoff.com/books/program-or-be-programmed/</a></li>
 </ol>
-<p>The post <a rel="nofollow" href="./../../../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/index.html">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/">Mr Robot: Μια σειρά για την τεχνολογία και τον διπολικό κόσμο μας</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://spytzo-static-page.pages.dev/2016/mr-robot-mia-seira-gia-tin-technologia-ke-ton-dipoliko-kosmo-mas/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Κάθε χρόνο η ίδια ιστορία</title>
-		<link>./../../../2015/kathe-chrono-idia-istoria/index.html</link>
-					<comments>./../../../2015/kathe-chrono-idia-istoria/index.html#respond</comments>
+		<link>https://spytzo-static-page.pages.dev/2015/kathe-chrono-idia-istoria/</link>
+					<comments>https://spytzo-static-page.pages.dev/2015/kathe-chrono-idia-istoria/#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 14 Feb 2015 00:00:56 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
 		<category><![CDATA[Τέχνη]]></category>
 		<category><![CDATA[Cinema]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=178</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=178</guid>
 
 					<description><![CDATA[<p>Είναι υπέροχο, υπέροχο συναίσθημα να βλέπεις την αδικία να αποκαθίσταται, έστω και για λίγο, έστω και σε βάρος του παρελθόντος ή του μέλλοντος, σε ταινίες όπως το About Time και το Source Code, αντίστοιχα.</p>
-<p>The post <a rel="nofollow" href="./../../../2015/kathe-chrono-idia-istoria/index.html">Κάθε χρόνο η ίδια ιστορία</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2015/kathe-chrono-idia-istoria/">Κάθε χρόνο η ίδια ιστορία</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Σε κάποιον σαν κι εμένα, με φριχτή <strong>μνήμη </strong>για ονόματα ανθρώπων που συνάντησα έως και λίγα λεπτά νωρίτερα (= name-blindness), φαίνεται αρκετά οξύμωρο να μπορώ να επιχειρηματολογήσω με βεβαιότητα για το πού βρισκόμουν ακριβώς ένα χρόνο από σήμερα, ποιους ανθρώπους είδα, τι παραγγείλαμε για φαγητό, ποια ταινία βάλαμε να δούμε. Εν προκειμένω, ήταν το <a href="http://www.imdb.com/title/tt2194499">About Time</a>, μία ιστορία βασισμένη σε ένα από τα αγαπημένα μου μοτίβα στο storytelling: <em>Τι θα γινόταν αν&#8230;;</em> Αν ανακάλυπτες μια μέρα ότι έχεις υπερφυσικές ικανότητες; Οι οποίες σου επιτρέπουν να μετακινείσαι στο χρόνο <strong>απεριόριστα</strong> και να αλλάζεις τα γεγονότα; [Spoiler alert, δεν συνεχίζω παρακάτω, να πάτε να την δείτε.]</p>
@@ -141,31 +141,31 @@
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="How long will I love you - Jon Boden, Sam Sweeney &amp; Ben Coleman" width="580" height="326" src="https://www.youtube.com/embed/aSgU0gNL2Ac?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div><figcaption>Jon Boden, Sam Sweeney &amp; Ben Coleman &#8211; How long will I love you</figcaption></figure>
-<p>The post <a rel="nofollow" href="./../../../2015/kathe-chrono-idia-istoria/index.html">Κάθε χρόνο η ίδια ιστορία</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2015/kathe-chrono-idia-istoria/">Κάθε χρόνο η ίδια ιστορία</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2015/kathe-chrono-idia-istoria/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://spytzo-static-page.pages.dev/2015/kathe-chrono-idia-istoria/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Τέχνη, φιλοσοφία και επανάσταση</title>
-		<link>./../../../2011/texni-filosofia-kai-epanastasi/index.html</link>
-					<comments>./../../../2011/texni-filosofia-kai-epanastasi/index.html#respond</comments>
+		<link>https://spytzo-static-page.pages.dev/2011/texni-filosofia-kai-epanastasi/</link>
+					<comments>https://spytzo-static-page.pages.dev/2011/texni-filosofia-kai-epanastasi/#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Thu, 21 Jul 2011 21:42:48 +0000</pubDate>
 				<category><![CDATA[Τέχνη]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=22</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=22</guid>
 
 					<description><![CDATA[<p>Λέγεται συχνά πως το ευ ζειν προϋποθέτει την τέχνη της επιβίωσης στην καθημερινότητα. Ως άνθρωπος καλείσαι να παίξεις πολλούς ρόλους για να την βγάλεις καθαρή, φαντάρος και στρατηλάτης, για σένα, για τους άλλους, για να έχεις νόημα στην κοινωνία. Αν σε κόφτει δα και καθόλου.. Κάποια πράγματα είναι πάνω από εμάς, όμως τίποτα δεν μας [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../../../2011/texni-filosofia-kai-epanastasi/index.html">Τέχνη, φιλοσοφία και επανάσταση</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2011/texni-filosofia-kai-epanastasi/">Τέχνη, φιλοσοφία και επανάσταση</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Λέγεται συχνά πως το ευ ζειν προϋποθέτει την τέχνη της επιβίωσης στην καθημερινότητα. Ως άνθρωπος καλείσαι να παίξεις πολλούς ρόλους για να την βγάλεις καθαρή, φαντάρος και στρατηλάτης, για σένα, για τους άλλους, για να έχεις νόημα στην κοινωνία. Αν σε κόφτει δα και καθόλου.. Κάποια πράγματα είναι πάνω από εμάς, όμως τίποτα δεν μας εμποδίζει να τα φτάσουμε &#8211; εξάλλου, μπορεί όλοι να είμαστε στον υπόνομο, όμως κάποιοι στρέφουν το βλέμμα στα αστέρια.<span id="more-22"></span><br />
 Ο καλλιτέχνης, ο ποιητής, νιώθει πως ο κόσμος δεν τον χωρεί και αποδρά, εκρήγνυται υπογείως και επαναληπτικώς, σκάβει τα σύννεφα και χτίζει τον δικό του κόσμο, κρατάει ο ίδιος τα πινέλα και τα χρώματα, λύει τις συμβάσεις με το τώρα και το έτσι και ελπίζει να κατακρημνιστεί καιόμενος στη φλόγα του μυαλού του.<br />
 Ο φιλόσοφος κυρίως φοβάται· φοβάται ότι μπορεί να μην καταλάβει, να μην δει, μην πέσει σε ατέρμον βρόγχο. Φοβάται ότι θα γίνει -ή ακόμα χειρότερα ότι είναι- μέρος ενός κόσμου που δεν έπλασε ποτέ, νιώθει σαν αυτοκίνητο που θα τρέξει στην εθνική και ίσως χάσει τη στροφή. Και τί χαρά που ώριμος πια από το μεγάλωμα το μυαλού του, σαν μπαλόνι θα γεμίσει ιδέες ζεστές και πανάλαφρες και θα αιωρηθεί λίγο ψηλότερα, ελπίζοντας αβέβαια σε άλλα ερωτηματικά.</p>
-<div><img loading="lazy" class="aligncenter" style="border: 0px;" title="Rowan Bovis - Red Atom" src="./../../../wp-content/uploads/2011/07/red-atom2005-1.jpg" alt="" width="320" height="254" border="0" /></div>
+<div><img loading="lazy" class="aligncenter" style="border: 0px;" title="Rowan Bovis - Red Atom" src="https://spytzo-static-page.pages.dev/wp-content/uploads/2011/07/red-atom2005-1.jpg" alt="" width="320" height="254" border="0" /></div>
 <p>Για το τέλος, ο αγαπημένος μου: ο ιδανικός και ανάξιος επαναστάτης. Ο φιλόσοφος διαβάζει τον κόσμο, ο καλλιτέχνης, ναι, καμώνει τον δικό του &#8211; ο επαναστάτης ξαναφτιάχνει τον δικό μας. Ιδανικός γιατί, αυτοεξόριστος από τον εποικοδόμημα που φυσιολογικά έχτισαν άλλοι για αυτόν, αναλαμβάνει την ευθύνη του και φτιασιδώνει με το καλέμι τον μικρόκοσμό του.. Ο Αναρχικός Τραπεζίτης του Φερνάντο Πεσσόα είναι ένας υπέροχος απελευθερωμένος άνθρωπος ο οποίος μάλιστα ασκεί αξιοζήλευτη κριτική στους συντρόφους, τα τέρατα του κινήματος.. Και τι άχρηστος, σαν το σκυλί που κουνώντας την ουρά του θάβει το κόκκαλο στον κήπο..<br />
 Ιδανικός, ακόμα, γιατί ξέρει ότι πρέπει να παραμείνει στο πόστο του, ακόμα και αν όλα γύρω του καταρρέουν, ακόμα και αν σημαίνει ότι πρέπει να μπαίνει στην τάξη με δεκατέσσερα χριστόψωμα στην αγκαλιά. Ανάξιος, δε, καθότι τίποτα στα αλήθεια δεν τον υποχρεώνει να είναι πιο πνευματώδης από την πέτρα του Δαβίδ, πιο σπουδαγμένος από έναν πρωτοετή φοιτητή.. Και είναι ανθρώπινος, καλέ μου, πόσο ανθρώπινος! Κι αυτό γιατί θα θελήσει να πολεμήσει στην αυγή, όταν μπροστά του θα εμφανίζονται μόνο χιλιόμετρα και εμπόδια, όταν η ελπίδα, όχι μόνο δεν θα υπάρχει, αλλά δεν θα την αναζητά καν.<br />
 Καταληκτικά, ποια από τις παραπάνω προσωπικότητες φαίνεται να έχουμε περισσότερο ανάγκη; Προσωπικά μιλώντας.. πιστεύω πως όλοι έχουμε ανάγκη να κλεινόμαστε για λίγο στο συννεφάκι μας, μέχρι να ισορροπήσουμε τα μέσα μας και να αναδυθούμε ξανά στην επιφάνεια. Από την άλλη, ας μην ξεχνάμε ότι τρένο δίχως ράγες θα δυσκολευτεί να βρει σταθμό. Πάντα, μα πάντα, όμως, θα είναι εκείνο το υψωμένο χέρι που θα του πρέπει να κάνει την ιδέα και τον μύθο, ιστορία.<br />
@@ -178,10 +178,10 @@
 <li><a href="http://aposiopoihtika.spytzo.gr/poihmata/ta-rouxa-tou-autokratora/">Τα ρούχα του αυτοκράτορα</a></li>
 <li><a href="http://users.uoa.gr/~nektar/arts/poetry/nikhforos_brettakos_poems.htm#%CE%A4%CE%91_%CE%94%CE%95%CE%9A%CE%91%CE%A4%CE%95%CE%A3%CE%A3%CE%95%CE%A1%CE%91_%CE%A0%CE%91%CE%99%CE%94%CE%99%CE%91">Νικηφόρος Βρεττάκος &#8211; Ποιήματα</a></li>
 </ul>
-<p>The post <a rel="nofollow" href="./../../../2011/texni-filosofia-kai-epanastasi/index.html">Τέχνη, φιλοσοφία και επανάσταση</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2011/texni-filosofia-kai-epanastasi/">Τέχνη, φιλοσοφία και επανάσταση</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2011/texni-filosofia-kai-epanastasi/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://spytzo-static-page.pages.dev/2011/texni-filosofia-kai-epanastasi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

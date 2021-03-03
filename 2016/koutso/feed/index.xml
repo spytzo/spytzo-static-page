@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Κουτσό	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://spytzo-static-page.pages.dev/2016/koutso/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spytzo-static-page.pages.dev/2016/koutso/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Από: dtzortzis42		</title>
-		<link>./../index.html#comment-7</link>
+		<link>https://spytzo-static-page.pages.dev/2016/koutso/#comment-7</link>
 
 		<dc:creator><![CDATA[dtzortzis42]]></dc:creator>
 		<pubDate>Wed, 30 Mar 2016 08:39:00 +0000</pubDate>
-		<guid isPermaLink="false">./../../../index.html?p=518#comment-7</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=518#comment-7</guid>
 
 					<description><![CDATA[Να σου πάρουμε κρεβάτι ρε παλικαράκι μου...!]]></description>
 			<content:encoded><![CDATA[<p>Να σου πάρουμε κρεβάτι ρε παλικαράκι μου&#8230;!</p>

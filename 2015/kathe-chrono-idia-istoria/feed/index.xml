@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Σχόλια σε: Κάθε χρόνο η ίδια ιστορία	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://spytzo-static-page.pages.dev/2015/kathe-chrono-idia-istoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spytzo-static-page.pages.dev/2015/kathe-chrono-idia-istoria/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Fri, 26 Jun 2020 20:47:06 +0000</lastBuildDate>
 	<sy:updatePeriod>

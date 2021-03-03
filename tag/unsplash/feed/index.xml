@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Unsplash &#8211; Σπύρος Τζώρτζης</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="https://spytzo-static-page.pages.dev/tag/unsplash/feed/" rel="self" type="application/rss+xml" />
+	<link>https://spytzo-static-page.pages.dev/</link>
 	<description>το blog μου</description>
 	<lastBuildDate>Sat, 09 May 2020 22:37:35 +0000</lastBuildDate>
 	<language>el</language>
@@ -21,25 +21,25 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
+	<url>https://spytzo-static-page.pages.dev/wp-content/uploads/2015/08/circle-icon1-150x150.png</url>
 	<title>Unsplash &#8211; Σπύρος Τζώρτζης</title>
-	<link>./../../../index.html</link>
+	<link>https://spytzo-static-page.pages.dev/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Το πράσινο σπίτι</title>
-		<link>./../../../2015/to-prasino-spiti/index.html</link>
-					<comments>./../../../2015/to-prasino-spiti/index.html#respond</comments>
+		<link>https://spytzo-static-page.pages.dev/2015/to-prasino-spiti/</link>
+					<comments>https://spytzo-static-page.pages.dev/2015/to-prasino-spiti/#respond</comments>
 		
 		<dc:creator><![CDATA[Σπύρος Τζώρτζης]]></dc:creator>
 		<pubDate>Sat, 06 Jun 2015 19:25:18 +0000</pubDate>
 				<category><![CDATA[Αχαρτογράφητα]]></category>
 		<category><![CDATA[Unsplash]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=370</guid>
+		<guid isPermaLink="false">https://spytzo-static-page.pages.dev/?p=370</guid>
 
 					<description><![CDATA[<p>Πριν λίγες μέρες, ζήτησα από φίλους μου να διαλέξουν ανάμεσα σε δύο φωτογραφίες του Unsplash με την υπόσχεση να γράψω μία ιστορία με βάση την πιο δημοφιλή. Είναι ένα παιχνίδι που λέω να συνεχίσω, οπότε ελπίζω πραγματικά ελπίζω να βγήκε κάτι καλό και να σας αρέσει. Σχόλια, κριτικές, προτάσεις, από κάτω. Υπάρχει ένα πράγμα που με [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../../../2015/to-prasino-spiti/index.html">Το πράσινο σπίτι</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2015/to-prasino-spiti/">Το πράσινο σπίτι</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p><em>Πριν λίγες μέρες, ζήτησα από φίλους μου να διαλέξουν ανάμεσα σε δύο φωτογραφίες του <a rel="noopener noreferrer" href="https://unsplash.com/" target="_blank">Unsplash</a> με την υπόσχεση να γράψω μία ιστορία με βάση την πιο δημοφιλή. Είναι ένα παιχνίδι που λέω να συνεχίσω, οπότε ελπίζω πραγματικά ελπίζω να βγήκε κάτι καλό και να σας αρέσει. Σχόλια, κριτικές, προτάσεις, από κάτω.</em></p>
@@ -63,10 +63,10 @@
 
 
 <p><em>Link για τη φωτογραφία <a rel="noopener noreferrer" href="https://unsplash.com/photos/QSo5qo-fWOQ/" target="_blank" class="broken_link">https://unsplash.com/photos/QSo5qo-fWOQ/</a>. Για την ιστορία (pun), το σκορ ήταν 9-6 και η φωτογραφία που δεν επιλέχθηκε ήταν <a rel="noopener noreferrer" href="https://unsplash.com/photos/BnYkT95oHHg" target="_blank">αυτή εδώ</a>.</em></p>
-<p>The post <a rel="nofollow" href="./../../../2015/to-prasino-spiti/index.html">Το πράσινο σπίτι</a> appeared first on <a rel="nofollow" href="./../../../index.html">Σπύρος Τζώρτζης</a>.</p>
+<p>The post <a rel="nofollow" href="https://spytzo-static-page.pages.dev/2015/to-prasino-spiti/">Το πράσινο σπίτι</a> appeared first on <a rel="nofollow" href="https://spytzo-static-page.pages.dev/">Σπύρος Τζώρτζης</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../2015/to-prasino-spiti/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>https://spytzo-static-page.pages.dev/2015/to-prasino-spiti/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
