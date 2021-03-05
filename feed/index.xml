@@ -504,7 +504,7 @@
 Είναι ενδιαφέρον, επίσης, ότι στο κινηματογραφικό πλάνο δεν υπάρχει ποτέ κάτι το περιττό και ο σκηνοθέτης σε κατευθύνει να εστιάσεις κάθε φορά ακριβώς εκεί που πρέπει, χρησιμοποιώντας μεταξύ άλλων <strong>ακραία καδραρίσματα</strong> όπως μπορείτε να δείτε εδώ:</p>
 <div align="center">
 <iframe src="https://player.vimeo.com/video/137119034" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
-<a href="https://vimeo.com/137119034">No Rules for Composition &#8211; (Mr. Robot)</a> from <a href="https://vimeo.com/user18081146">Semih Okmn</a> on <a href="https://vimeo.com/">Vimeo</a>.
+<a href="https://vimeo.com/137119034">No Rules for Composition &#8211; (Mr. Robot)</a> from <a href="https://vimeo.com/user18081146">Semih Okmn</a> on <a href="https://vimeo.com/" class="broken_link">Vimeo</a>.
 </div>
 <h2>Επί της θεωρίας</h2>
 <p>Είναι το Mr. Robot είναι μία σχιζοφρενική σειρά για την τεχνολογία ή μία τεχνολογική σειρά για τη σχιζοφρένεια; Μα και η ίδια η τεχνολογία μας δεν είναι το ίδιο διπολική, ικανή για το καλύτερο και για το χειρότερο;<br />
@@ -671,14 +671,3 @@
 			</item>
 	</channel>
 </rss>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Object Caching 74/152 objects using disk
-Page Caching using disk: enhanced 
-Lazy Loading (feed)
-Database Caching 6/67 queries in 0.029 seconds using memcached
-
-Served from: spytzo.gr @ 2021-03-03 21:24:23 by W3 Total Cache
--->
